@@ -1,0 +1,251 @@
+<application>
+  <component name="libraryTable">
+    <library name="Bootstrap" type="javaScript">
+      <properties>
+        <sourceFilesUrls>
+          <item url="file:///Volumes/Data/Document/Front-End/JavaScriptFramWork/bootstrap" />
+        </sourceFilesUrls>
+      </properties>
+      <CLASSES>
+        <root url="file:///Volumes/Data/Document/Front-End/JavaScriptFramWork/bootstrap" />
+      </CLASSES>
+      <SOURCES />
+    </library>
+    <library name="bootstrap-DefinitelyTyped" type="javaScript">
+      <properties>
+        <sourceFilesUrls>
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_github.com_DefinitelyTyped_DefinitelyTyped_raw_master_bootstrap_bootstrap.d.ts" />
+        </sourceFilesUrls>
+      </properties>
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_github.com_DefinitelyTyped_DefinitelyTyped_raw_master_bootstrap_bootstrap.d.ts" />
+      </CLASSES>
+      <SOURCES />
+    </library>
+    <library name="browser-sync-DefinitelyTyped" type="javaScript">
+      <properties>
+        <sourceFilesUrls>
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_github.com_DefinitelyTyped_DefinitelyTyped_raw_master_browser-sync_browser-sync.d.ts" />
+        </sourceFilesUrls>
+      </properties>
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_github.com_DefinitelyTyped_DefinitelyTyped_raw_master_browser-sync_browser-sync.d.ts" />
+      </CLASSES>
+      <SOURCES />
+    </library>
+    <library name="gruntjs-DefinitelyTyped" type="javaScript">
+      <properties>
+        <sourceFilesUrls>
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_github.com_DefinitelyTyped_DefinitelyTyped_raw_master_gruntjs_gruntjs.d.ts" />
+        </sourceFilesUrls>
+      </properties>
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_github.com_DefinitelyTyped_DefinitelyTyped_raw_master_gruntjs_gruntjs.d.ts" />
+      </CLASSES>
+      <SOURCES />
+    </library>
+    <library name="gulp-cache-DefinitelyTyped" type="javaScript">
+      <properties>
+        <sourceFilesUrls>
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_github.com_DefinitelyTyped_DefinitelyTyped_raw_master_gulp-cache_gulp-cache.d.ts" />
+        </sourceFilesUrls>
+      </properties>
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_github.com_DefinitelyTyped_DefinitelyTyped_raw_master_gulp-cache_gulp-cache.d.ts" />
+      </CLASSES>
+      <SOURCES />
+    </library>
+    <library name="gulp-DefinitelyTyped" type="javaScript">
+      <properties>
+        <sourceFilesUrls>
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_github.com_DefinitelyTyped_DefinitelyTyped_raw_master_gulp_gulp.d.ts" />
+        </sourceFilesUrls>
+      </properties>
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_github.com_DefinitelyTyped_DefinitelyTyped_raw_master_gulp_gulp.d.ts" />
+      </CLASSES>
+      <SOURCES />
+    </library>
+    <library name="gulp-if-DefinitelyTyped" type="javaScript">
+      <properties>
+        <sourceFilesUrls>
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_github.com_DefinitelyTyped_DefinitelyTyped_raw_master_gulp-if_gulp-if.d.ts" />
+        </sourceFilesUrls>
+      </properties>
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_github.com_DefinitelyTyped_DefinitelyTyped_raw_master_gulp-if_gulp-if.d.ts" />
+      </CLASSES>
+      <SOURCES />
+    </library>
+    <library name="gulp-task-listing-DefinitelyTyped" type="javaScript">
+      <properties>
+        <sourceFilesUrls>
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_github.com_DefinitelyTyped_DefinitelyTyped_raw_master_gulp-task-listing_gulp-task-listing.d.ts" />
+        </sourceFilesUrls>
+      </properties>
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_github.com_DefinitelyTyped_DefinitelyTyped_raw_master_gulp-task-listing_gulp-task-listing.d.ts" />
+      </CLASSES>
+      <SOURCES />
+    </library>
+    <library name="gulp-uglify-DefinitelyTyped" type="javaScript">
+      <properties>
+        <sourceFilesUrls>
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_github.com_DefinitelyTyped_DefinitelyTyped_raw_master_gulp-uglify_gulp-uglify.d.ts" />
+        </sourceFilesUrls>
+      </properties>
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_github.com_DefinitelyTyped_DefinitelyTyped_raw_master_gulp-uglify_gulp-uglify.d.ts" />
+      </CLASSES>
+      <SOURCES />
+    </library>
+    <library name="gulp-useref-DefinitelyTyped" type="javaScript">
+      <properties>
+        <sourceFilesUrls>
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_github.com_DefinitelyTyped_DefinitelyTyped_raw_master_gulp-useref_gulp-useref.d.ts" />
+        </sourceFilesUrls>
+      </properties>
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_github.com_DefinitelyTyped_DefinitelyTyped_raw_master_gulp-useref_gulp-useref.d.ts" />
+      </CLASSES>
+      <SOURCES />
+    </library>
+    <library name="gulp-watch-DefinitelyTyped" type="javaScript">
+      <properties>
+        <sourceFilesUrls>
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_github.com_DefinitelyTyped_DefinitelyTyped_raw_master_gulp-watch_gulp-watch.d.ts" />
+        </sourceFilesUrls>
+      </properties>
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_github.com_DefinitelyTyped_DefinitelyTyped_raw_master_gulp-watch_gulp-watch.d.ts" />
+      </CLASSES>
+      <SOURCES />
+    </library>
+    <library name="JQuery" type="javaScript">
+      <properties>
+        <option name="frameworkName" value="jQuery" />
+        <option name="frameworkVersion" value="" />
+        <sourceFilesUrls>
+          <item url="file:///Volumes/Data/Document/Front-End/JavaScriptFramWork/jQueryFrame/jQuery" />
+          <item url="file:///Volumes/Data/Document/Front-End/JavaScriptFramWork/jQueryFrame/jQuery/jquery-3.0.0.js" />
+        </sourceFilesUrls>
+      </properties>
+      <CLASSES>
+        <root url="file:///Volumes/Data/Document/Front-End/JavaScriptFramWork/jQueryFrame/jQuery" />
+        <root url="file:///Volumes/Data/Document/Front-End/JavaScriptFramWork/jQueryFrame/jQuery/jquery-3.0.0.js" />
+      </CLASSES>
+      <DOCUMENTATION>
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_api.jquery.com_resources_api.xml.xml" />
+        <root url="http://api.jquery.com" />
+      </DOCUMENTATION>
+      <SOURCES />
+    </library>
+    <library name="JQuery UI" type="javaScript">
+      <properties>
+        <option name="frameworkName" value="jQuery UI" />
+        <option name="frameworkVersion" value="1.12.1" />
+        <sourceFilesUrls>
+          <item url="file:///Volumes/Data/Document/Front-End/JavaScriptFramWork/jQueryFrame/jQueryUI_Plugin/jquery-ui-1.12.1.custom" />
+          <item url="file:///Volumes/Data/Document/Front-End/JavaScriptFramWork/jQueryFrame/jQueryUI_Plugin/jquery-ui-1.12.1.custom/jquery-ui.js" />
+        </sourceFilesUrls>
+      </properties>
+      <CLASSES>
+        <root url="file:///Volumes/Data/Document/Front-End/JavaScriptFramWork/jQueryFrame/jQueryUI_Plugin/jquery-ui-1.12.1.custom" />
+        <root url="file:///Volumes/Data/Document/Front-End/JavaScriptFramWork/jQueryFrame/jQueryUI_Plugin/jquery-ui-1.12.1.custom/jquery-ui.js" />
+      </CLASSES>
+      <DOCUMENTATION>
+        <root url="http://jqueryui.com/demos" />
+      </DOCUMENTATION>
+      <SOURCES />
+    </library>
+    <library name="jQuery UI-1.10.2" type="javaScript">
+      <properties>
+        <option name="frameworkName" value="jQuery" />
+        <sourceFilesUrls>
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_ajax.googleapis.com_ajax_libs_jqueryui_1.10.2_jquery-ui.js" />
+        </sourceFilesUrls>
+      </properties>
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_ajax.googleapis.com_ajax_libs_jqueryui_1.10.2_jquery-ui.js" />
+      </CLASSES>
+      <DOCUMENTATION>
+        <root url="http://api.jquery.com" />
+      </DOCUMENTATION>
+      <SOURCES />
+    </library>
+    <library name="jquery-DefinitelyTyped" type="javaScript">
+      <properties>
+        <option name="frameworkName" value="jQuery" />
+        <sourceFilesUrls>
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_github.com_DefinitelyTyped_DefinitelyTyped_raw_master_jquery_jquery.d.ts" />
+        </sourceFilesUrls>
+      </properties>
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_github.com_DefinitelyTyped_DefinitelyTyped_raw_master_jquery_jquery.d.ts" />
+      </CLASSES>
+      <DOCUMENTATION>
+        <root url="http://api.jquery.com" />
+      </DOCUMENTATION>
+      <SOURCES />
+    </library>
+    <library name="node-DefinitelyTyped" type="javaScript">
+      <properties>
+        <sourceFilesUrls>
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_github.com_DefinitelyTyped_DefinitelyTyped_raw_master_node_node.d.ts" />
+        </sourceFilesUrls>
+      </properties>
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_github.com_DefinitelyTyped_DefinitelyTyped_raw_master_node_node.d.ts" />
+      </CLASSES>
+      <SOURCES />
+    </library>
+    <library name="Prototype" type="javaScript">
+      <properties>
+        <option name="frameworkName" value="Prototype" />
+        <sourceFilesUrls>
+          <item url="file:///Volumes/Data/Document/Front-End/JavaScriptFramWork/prototype/prototype.js" />
+        </sourceFilesUrls>
+      </properties>
+      <CLASSES>
+        <root url="file:///Volumes/Data/Document/Front-End/JavaScriptFramWork/prototype/prototype.js" />
+      </CLASSES>
+      <DOCUMENTATION>
+        <root url="http://api.prototypejs.org" />
+      </DOCUMENTATION>
+      <SOURCES />
+    </library>
+    <library name="react-DefinitelyTyped" type="javaScript">
+      <properties>
+        <sourceFilesUrls>
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_github.com_DefinitelyTyped_DefinitelyTyped_raw_master_react_react-addons-css-transition-group.d.ts" />
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_github.com_DefinitelyTyped_DefinitelyTyped_raw_master_react_react-addons-linked-state-mixin.d.ts" />
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_github.com_DefinitelyTyped_DefinitelyTyped_raw_master_react_react-addons-perf.d.ts" />
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_github.com_DefinitelyTyped_DefinitelyTyped_raw_master_react_react-addons-pure-render-mixin.d.ts" />
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_github.com_DefinitelyTyped_DefinitelyTyped_raw_master_react_react-addons-shallow-compare.d.ts" />
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_github.com_DefinitelyTyped_DefinitelyTyped_raw_master_react_react-addons-test-utils.d.ts" />
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_github.com_DefinitelyTyped_DefinitelyTyped_raw_master_react_react-addons-transition-group.d.ts" />
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_github.com_DefinitelyTyped_DefinitelyTyped_raw_master_react_react-addons-update.d.ts" />
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_github.com_DefinitelyTyped_DefinitelyTyped_raw_master_react_react-dom.d.ts" />
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_github.com_DefinitelyTyped_DefinitelyTyped_raw_master_react_react-global.d.ts" />
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_github.com_DefinitelyTyped_DefinitelyTyped_raw_master_react_react.d.ts" />
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_github.com_DefinitelyTyped_DefinitelyTyped_raw_master_react_react-addons-create-fragment.d.ts" />
+        </sourceFilesUrls>
+      </properties>
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_github.com_DefinitelyTyped_DefinitelyTyped_raw_master_react_react-addons-css-transition-group.d.ts" />
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_github.com_DefinitelyTyped_DefinitelyTyped_raw_master_react_react-addons-linked-state-mixin.d.ts" />
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_github.com_DefinitelyTyped_DefinitelyTyped_raw_master_react_react-addons-perf.d.ts" />
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_github.com_DefinitelyTyped_DefinitelyTyped_raw_master_react_react-addons-pure-render-mixin.d.ts" />
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_github.com_DefinitelyTyped_DefinitelyTyped_raw_master_react_react-addons-shallow-compare.d.ts" />
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_github.com_DefinitelyTyped_DefinitelyTyped_raw_master_react_react-addons-test-utils.d.ts" />
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_github.com_DefinitelyTyped_DefinitelyTyped_raw_master_react_react-addons-transition-group.d.ts" />
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_github.com_DefinitelyTyped_DefinitelyTyped_raw_master_react_react-addons-update.d.ts" />
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_github.com_DefinitelyTyped_DefinitelyTyped_raw_master_react_react-dom.d.ts" />
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_github.com_DefinitelyTyped_DefinitelyTyped_raw_master_react_react-global.d.ts" />
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_github.com_DefinitelyTyped_DefinitelyTyped_raw_master_react_react.d.ts" />
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_github.com_DefinitelyTyped_DefinitelyTyped_raw_master_react_react-addons-create-fragment.d.ts" />
+      </CLASSES>
+      <SOURCES />
+    </library>
+  </component>
+</application>

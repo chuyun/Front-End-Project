@@ -1,0 +1,9 @@
+<toolSet name="External Tools">
+  <tool name="postcss-cli" showInMainMenu="true" showInEditor="true" showInProject="true" showInSearchPopup="true" disabled="false" useConsole="true" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="true">
+    <exec>
+      <option name="COMMAND" value="$USER_HOME$/.nvm/versions/node/v5.11.0/lib/node_modules/postcss-cli/bin/postcss" />
+      <option name="PARAMETERS" value="-u autoprefixer -o $FileDir$/$FileName$  $FileDir$/$FileName$" />
+      <option name="WORKING_DIRECTORY" value="$ProjectFileDir$" />
+    </exec>
+  </tool>
+</toolSet>
