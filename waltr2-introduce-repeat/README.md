@@ -10,3 +10,11 @@
 gulp构建
 
 [WALTR 2 for  MacOS 下载地址：](https://softorino.com/waltr/) https://softorino.com/waltr/
+
+
+
+
+
+效果图：
+
+ ![rendering](img/rendering.png)
