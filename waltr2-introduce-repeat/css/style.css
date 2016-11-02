@@ -1,0 +1,197 @@
+*{
+    margin: 0;
+    padding: 0;
+
+}
+body{
+    background: #FFF;
+}
+
+#main-container{
+    position: fixed;
+    left: 50%;
+    top: 50%;
+    height: 360px;
+    width: 640px;
+    margin-top: -180px;
+    margin-left: -320px;
+    /*background-color: aqua;*/
+
+}
+
+#video-container{
+    position: relative;
+}
+.skip{
+    position: absolute;
+    top: 330px;
+    left: 10px;
+    padding:5px 10px;
+    color: white;
+    font-size: 12px;
+    font-weight:100;
+    background: rgba(0,0,0,0.2);
+    opacity: 0;
+}
+.skip:hover{
+    cursor: pointer;
+
+}
+
+#subscribe-me{
+    z-index: 10;
+    position: absolute;
+    top:0;
+    left: 0;
+    /*background-color: gray;*/
+    height: 360px;
+    width: 640px;
+}
+#form{
+    height: 360px;
+    width: 640px;
+
+    /*background-color: grey;*/
+    /*opacity: 0.6;*/
+    /*z-index: 200;*/
+
+    display: none;
+}
+.w2logo{
+    width: 100px;
+    height: 100px;
+    margin-left: 270px;
+    margin-top: 20px;
+    opacity: 0.7;
+}
+
+.subscr-title{
+    color: white;
+    font-weight: bold;
+    text-align: center;
+    margin: 20px auto;
+    display: block;
+    font-size: 22px;
+    line-height: 22px;
+    letter-spacing: 1px;
+}
+#emailer{
+    display: block;
+    margin: 20px auto;
+    width: 440px;
+    height: 40px;
+    text-align: center;
+    font-size: 20px;
+    line-height: 20px;
+}
+/*#subscribe-button{*/
+    /*text-align: center;*/
+    /*display: block;*/
+    /*margin: 40px auto;*/
+/*}*/
+
+#active{
+    color: aliceblue;
+    position: absolute;
+    left: 10px;
+    bottom: 10px;
+    font-size: 12px;
+    font-weight: 100;
+
+
+}
+
+.button {
+    background-color: #008aea;
+    color: white;
+    display: block;
+    text-decoration: none;
+    width: 156px;
+    height: 44px;
+    text-align: center;
+    line-height: 42px;
+    border-radius:7px;
+    transition: all .5s;
+
+}
+
+.button:hover {
+    background-color: #0073cd;
+    -webkit-transform: scale(1.05)
+}
+
+
+.subscribe-me .button
+{
+    width: 340px;
+    margin-top: 5px;
+    position: absolute;
+    top: 270px;
+    left: 150px;
+    background-image: -webkit-linear-gradient( 0deg, rgb(255,157,0) 0%, rgb(255,78,0) 38%, rgb(209,104,184) 67%, rgb(40,183,239) 100%);
+    font-size: 21px;
+    border-radius: 40px;
+    line-height: 46px
+}
+#start-waltr-button{
+    position: absolute;
+    z-index: 110;
+    margin-top:-100px;
+    margin-left: 220px;
+    background-image: -webkit-linear-gradient( 0deg, rgb(255,157,0) 0%, rgb(255,78,0) 38%, rgb(209,104,184) 67%, rgb(40,183,239) 100%);
+    font-size: 20px;
+    border-radius: 40px;
+    line-height: 46px;
+    width: 200px !important;
+    display:none;
+}
+
+
+/* Animation Keyframes */
+@-webkit-keyframes bouncing {
+    0% { -webkit-transform:scale(1);}
+    50% { -webkit-transform:scale(1.05);}
+    100% { -webkit-transform:scale(1);}
+}
+
+    /* animations */
+#start-waltr-button,.row a {
+    /*-webkit-animation:bouncing 2s infinite;*/
+}
+#start-waltr-button:hover {
+    -webkit-transform:scale(1.12);
+}
+#start-waltr-button:active {
+    -webkit-transform:scale(0.99);
+}
+
+
+
+.click-to-play{
+    opacity: 0;
+}
+
+#video-container {
+    opacity: 0;
+}
+
+
+#emailer-error {
+    text-align: center;
+    margin: 0 auto;
+    color: #ff9821;
+    display: block;
+}
+
+#thank{
+    /*background-color: #008aea;*/
+    position: absolute;
+    font-size: 60px;
+    height: 60px;
+    width: 100%;
+    text-align: center;
+    color: white;
+    top: 150px;
+    left:0;
+    display: none;
+}
