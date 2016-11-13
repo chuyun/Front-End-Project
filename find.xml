@@ -1,9 +1,9 @@
 <application>
   <component name="FindSettings">
     <option name="caseSensitive" value="true" />
-    <option name="customScope" value="文件 '.../js/main.js - [Wangyi]'" />
-    <option name="defaultScopeName" value="文件 '.../js/main.js - [Wangyi]'" />
+    <option name="customScope" value="文件 '.../app/js/tool-require/qrcode.js - [QReader]'" />
+    <option name="defaultScopeName" value="文件 '.../app/js/tool-require/qrcode.js - [QReader]'" />
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
-    <option name="SEARCH_SCOPE" value="文件 '.../js/main.js - [Wangyi]'" />
+    <option name="SEARCH_SCOPE" value="文件 '.../app/js/tool-require/qrcode.js - [QReader]'" />
   </component>
 </application>
