@@ -1,9 +1,9 @@
 <application>
   <component name="FindSettings">
     <option name="caseSensitive" value="true" />
-    <option name="customScope" value="文件 '.../app/js/tool-require/decoder.js - [QReader]'" />
-    <option name="defaultScopeName" value="文件 '.../app/js/tool-require/decoder.js - [QReader]'" />
+    <option name="customScope" value="文件 '.../js/dragFile.js - [QR]'" />
+    <option name="defaultScopeName" value="文件 '.../js/dragFile.js - [QR]'" />
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
-    <option name="SEARCH_SCOPE" value="文件 '.../app/js/tool-require/decoder.js - [QReader]'" />
+    <option name="SEARCH_SCOPE" value="文件 '.../js/dragFile.js - [QR]'" />
   </component>
 </application>
