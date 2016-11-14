@@ -1,9 +1,9 @@
 <application>
   <component name="FindSettings">
     <option name="caseSensitive" value="true" />
-    <option name="customScope" value="目录 '.../js - [QR]'" />
-    <option name="defaultScopeName" value="目录 '.../js - [QR]'" />
+    <option name="customScope" value="目录 '.../js - [QReaderFin]'" />
+    <option name="defaultScopeName" value="目录 '.../js - [QReaderFin]'" />
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
-    <option name="SEARCH_SCOPE" value="目录 '.../js - [QR]'" />
+    <option name="SEARCH_SCOPE" value="目录 '.../js - [QReaderFin]'" />
   </component>
 </application>
