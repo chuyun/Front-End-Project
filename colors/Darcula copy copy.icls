@@ -1,0 +1,13 @@
+<scheme name="Darcula copy copy" version="142" parent_scheme="Darcula">
+  <metaInfo>
+    <property name="created">2016-11-17T19:24:15</property>
+    <property name="ide">WebStorm</property>
+    <property name="ideVersion">2016.3.0.0</property>
+    <property name="modified">2016-11-17T19:24:49</property>
+    <property name="originalScheme">Darcula copy</property>
+  </metaInfo>
+  <option name="EDITOR_FONT_SIZE" value="14" />
+  <option name="CONSOLE_FONT_NAME" value="Menlo" />
+  <option name="CONSOLE_FONT_SIZE" value="12" />
+  <option name="EDITOR_FONT_NAME" value="Menlo" />
+</scheme>
