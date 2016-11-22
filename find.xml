@@ -1,9 +1,9 @@
 <application>
   <component name="FindSettings">
     <option name="caseSensitive" value="true" />
-    <option name="customScope" value="文件 '.../js/libs/bitmat.js - [QReaderFin]'" />
-    <option name="defaultScopeName" value="文件 '.../js/libs/bitmat.js - [QReaderFin]'" />
+    <option name="customScope" value="File '.../js/main.js - [app]'" />
+    <option name="defaultScopeName" value="File '.../js/main.js - [app]'" />
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
-    <option name="SEARCH_SCOPE" value="文件 '.../js/libs/bitmat.js - [QReaderFin]'" />
+    <option name="SEARCH_SCOPE" value="File '.../js/main.js - [app]'" />
   </component>
 </application>
