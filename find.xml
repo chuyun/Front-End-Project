@@ -1,9 +1,9 @@
 <application>
   <component name="FindSettings">
     <option name="caseSensitive" value="true" />
-    <option name="customScope" value="Directory '.../js - [app]'" />
-    <option name="defaultScopeName" value="Directory '.../js - [app]'" />
+    <option name="customScope" value="File '.../js/main.js - [app]'" />
+    <option name="defaultScopeName" value="File '.../js/main.js - [app]'" />
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
-    <option name="SEARCH_SCOPE" value="Directory '.../js - [app]'" />
+    <option name="SEARCH_SCOPE" value="File '.../js/main.js - [app]'" />
   </component>
 </application>
