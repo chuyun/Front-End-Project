@@ -242,6 +242,19 @@
       </CLASSES>
       <SOURCES />
     </library>
+    <library name="node-mysql-wrapper-DefinitelyTyped" type="javaScript">
+      <properties>
+        <sourceFilesUrls>
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_github.com_DefinitelyTyped_DefinitelyTyped_raw_master_node-mysql-wrapper_node-mysql-wrapper.d.ts" />
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_github.com_DefinitelyTyped_DefinitelyTyped_raw_master_node-mysql-wrapper_my-meteor.d.ts" />
+        </sourceFilesUrls>
+      </properties>
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_github.com_DefinitelyTyped_DefinitelyTyped_raw_master_node-mysql-wrapper_node-mysql-wrapper.d.ts" />
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_github.com_DefinitelyTyped_DefinitelyTyped_raw_master_node-mysql-wrapper_my-meteor.d.ts" />
+      </CLASSES>
+      <SOURCES />
+    </library>
     <library name="Prototype" type="javaScript">
       <properties>
         <option name="frameworkName" value="Prototype" />
