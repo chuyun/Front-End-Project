@@ -1,0 +1,6 @@
+<application>
+  <component name="CodeInsightSettings">
+    <option name="PARAMETER_INFO_DELAY" value="500" />
+    <option name="COMPLETION_CASE_SENSITIVE" value="1" />
+  </component>
+</application>
