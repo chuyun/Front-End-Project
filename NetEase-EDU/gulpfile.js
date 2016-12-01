@@ -14,6 +14,7 @@ var imagemin=require('gulp-imagemin');
 var del=require('del');
 var clean=require('gulp-clean');
 var runSequence=require('run-sequence');
+var imageisux=require('gulp-imageisux');
 
 
 //语法检查
@@ -52,6 +53,16 @@ gulp.task('watch',function () {
     gulp.watch('js/**/*.js',browserSync.reload);
     gulp.watch('css/**/*.css',browserSync.reload);
 });
+
+
+//webp
+gulp.task('webp',function () {
+    return gulp.src('image/*')
+    .pipe(imageisux('/dirpath/',true));
+});
+
+
+
 
 
 // gulp-cache 插件可以减少重复压缩

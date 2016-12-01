@@ -1,0 +1,379 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>宽带导航页</title>
+<meta http-equiv="x-ua-compatible" content="ie=7" />
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<link type="text/css" rel="stylesheet" href="http://183.207.232.253/template/default/css/reset.css" />
+<link type="text/css" rel="stylesheet" href="http://183.207.232.253/template/default/css/basic.css" />
+<link type="text/css" rel="stylesheet" href="http://183.207.232.253/template/default/css/newindex.css" />
+<script src="http://183.207.232.253/template/default/js/kdnav.js"></script>
+<script src="http://183.207.232.253/template/default/js/jquery.js"></script>
+<script src="http://183.207.232.253/template/default/js/kdy.js"></script>
+<script src="http://183.207.232.253/template/default/js/sdc_js139.js"></script>
+<script type="text/javascript">_tag.trackEvent();</script>
+<script src="http://112.25.21.98/stat/index.php/stat/3/title/kdy"></script>
+
+</head>
+
+<body>
+
+<script>
+var _hmt = _hmt || [];
+(function() {
+  var hm = document.createElement("script");
+  hm.src = "//hm.baidu.com/hm.js?53e3f749bd42eb9ea13abaca5c7a618e";
+  var s = document.getElementsByTagName("script")[0];
+  s.parentNode.insertBefore(hm, s);
+})();
+</script>
+
+<!-- 内容提示 -->
+<h2 align="center" style="color:red !important; font-size:20px; padding:10px 0 3px 0;" target="_blank">尊敬的用户： 您输入的域名有误或站点访问失败， 请尝试重新输入或使用以下服务功能。</h2>
+<!-- head-top -->
+<div id="header-top">
+    <div class="section">
+        <span class="h-top fr"><!--<a href="http://hao.js.chinamobile.com/" title="返回旧版">返回旧版</a>|--><a href="http://service.js.10086.cn/#home" title="网上营业厅" target="_blank">网上营业厅</a>|<a href="http://www.js.10086.cn/support"  target="_blank" title="宽带服务">宽带服务</a></span>
+        <span class="h-top-l"><a href="javascript:void(0);" id="sethomepage">设为主页</a>&nbsp;|&nbsp;<em id="date-now"></em></span>
+        <span class="tianqi ajaxload" ajaxurl="/?index/weather.html" style="display:inline;position:relative;">
+             
+         </span>
+    </div>
+</div>
+
+<!-- head-logo -->
+ <div class="head section">
+    <span class="logo" ><img src="http://183.207.232.253/template/default/images/logo.jpg" alt="" /></span>
+    <!-- 登录-搜索 -->
+   <form target="_blank" method="get" class="form-stat" data-url="http://112.25.21.98/stat/index.php/stat/6/source/kdy"  action="http://www.sogou.com/web?" >
+        <div class="new-search">  <input type="hidden" autocomplete="off" maxlength="100" class="s_ipt" name="pid" value="sogou-site-5db60c9820991379"> <!--<span class="s_ipt_wr">
+                <input type="text" autocomplete="off" maxlength="100" class="s_ipt" name="query" id="kw">
+            </span>
+            <span class="s_btn_wr">
+                <input type="submit" value="搜狗搜索" onmousedown="this.className='s_btn s_btn_h'" onmouseout="this.className='s_btn'" class="s_btn" id="su">
+            </span>-->
+        </div>
+    </form>
+    
+</div>
+<!-- 导航 -->
+<!--<div id="nav">
+    <ul>
+        <li class="navbg1 current" id="banner-li-1"><a href="javascript:void(0);" class="banner-btn" index="1"><b>首&nbsp;&nbsp;页</b></a></li>
+        <li class="navbg1" id="banner-li-2"><a href="javascript:void(0);"  class="banner-btn" index="2"><b>电&nbsp;&nbsp;影</b></a></li>
+        <li class="navbg1" id="banner-li-3"><a href="javascript:void(0);"  class="banner-btn" index="3"><b>电视剧</b></a></li>
+        <!--<li class="navbg1" id="banner-li-4"><a href="javascript:void(0);"  class="banner-btn"  index="4"><b>优惠资讯</b></a></li>-->
+        <!--<li class="navbg1" id="banner-li-5"><a href="http://nanjing.wxcs.cn/" target="_blank" ><b class="nav-l">和生活</b></a></li>-->
+   <!-- </ul>
+</div>
+<!-- 主区域内容 -->
+<div class="section martop15 clearfix" id="main">
+    <!-- article -->
+    <div class="article fl">
+        <div class="article_box" id="article_box-1">
+            <div class="focus mod18">
+    <div id="picBox" class="picBox">
+        <ul class="bigpic cf">  <li><a href="http://www.js.10086.cn/mall/web/search_list.html?keyword=%25E5%2592%258C%25E7%259B%25AE;&amp;source=HMLB00005" class="stat-click"  target="_blank"  ajaxurl="http://183.207.232.253/?stat/click/id/411/local/1.html"><img src="http://www.js139.cn/data/attachment/2016-11-02/pre_cctrse5jcrlb.jpg" width="670" /></a></li>  <li><a href="http://service.js.10086.cn/WSCZYL.html?WT.ac=1611QAKD1" class="stat-click"  target="_blank"  ajaxurl="http://183.207.232.253/?stat/click/id/419/local/1.html"><img src="http://www.js139.cn/data/attachment/2016-10-31/pre_t6a2pvbjq9h5.jpg" width="670" /></a></li>  <li><a href="https://fanclub.chinamobile.com/portal/survey" class="stat-click"  target="_blank"  ajaxurl="http://183.207.232.253/?stat/click/id/386/local/1.html"><img src="http://www.js139.cn/data/attachment/2016-04-07/pre_dksw9dksg8wg.jpg" width="670" /></a></li>  <li><a href="http://andfree.cn:8081/andfree/huodong/instr.html" class="stat-click"  target="_blank"  ajaxurl="http://183.207.232.253/?stat/click/id/348/local/1.html"><img src="http://www.js139.cn/data/attachment/2015-11-10/pre_s7wrwsdr5s5d.jpg" width="670" /></a></li>  </ul>
+    </div>
+    <div class="listBox" id="listBox">
+        <span id="prev" class="onclick-l"></span>
+        <span id="next" class="onclick-r"></span>
+        <span id="prevTop" class="btn prev"></span>
+        <span id="nextTop" class="btn next"></span>
+        <div class="listpicbox">
+            <ul class="listpic cf">  <li class="on"><i class="arr2"></i><img width="74"src="http://www.js139.cn/data/attachment/2016-11-02/pre_tfjkfsg6u7w9.jpg" alt="" /></li>  <li class="arr2"><i class="arr2"></i><img width="74"src="http://www.js139.cn/data/attachment/2016-10-31/pre_bkemx5bnpb3v.jpg" alt="" /></li>  <li class="arr2"><i class="arr2"></i><img width="74"src="http://www.js139.cn/data/attachment/2016-04-07/pre_u6nfynlj3d3h.jpg" alt="" /></li>  <li class="arr2"><i class="arr2"></i><img width="74"src="http://www.js139.cn/data/attachment/2015-11-10/pre_gpfthku4e28d.jpg" alt="" /></li>  </ul>
+        </div>
+    </div>
+</div>
+        </div>
+        <div class="article_box" id="article_box-2" style="display:none">
+            
+            <div class="focus mod18">
+    <div id="picBox2" class="picBox">
+        <ul class="bigpic cf">  <li><a href="http://v.youku.com/v_show/id_XNzgyODExNDY4.html?from=y1.3-movie-grid-1095-9921.86981.1-1" class="stat-click"  target="_blank"  ajaxurl="http://183.207.232.253/?stat/click/id/251/local/2.html"><img src="http://www.js139.cn/data/attachment/2014-10-23/pre_7af2sp5yelsk.jpg" width="670" /></a></li>  <li><a href="http://v.youku.com/v_show/id_XNzU3NzY5NjIw.html?from=y1.3-movie-grid-1095-9921.86981.1-5" class="stat-click"  target="_blank"  ajaxurl="http://183.207.232.253/?stat/click/id/253/local/2.html"><img src="http://www.js139.cn/data/attachment/2014-10-23/pre_apcpvjjpp6e3.png" width="670" /></a></li>  <li><a href="http://v.youku.com/v_show/id_XNzU5ODgyMjgw.html?from=y1.3-movie-grid-1095-9921.86981.1-13" class="stat-click"  target="_blank"  ajaxurl="http://183.207.232.253/?stat/click/id/254/local/2.html"><img src="http://www.js139.cn/data/attachment/2014-10-23/pre_qaqlvnvr6bed.jpg" width="670" /></a></li>  <li><a href="http://v.youku.com/v_show/id_XNzc4ODQ2OTU2.html?from=y1.3-movie-grid-1095-9921.86981.1-9" class="stat-click"  target="_blank"  ajaxurl="http://183.207.232.253/?stat/click/id/256/local/2.html"><img src="http://www.js139.cn/data/attachment/2014-10-23/pre_rw6klsu7feju.jpg" width="670" /></a></li>  </ul>
+    </div>
+    <div class="listBox" id="listBox">
+        <span id="prev" class="onclick-l"></span>
+        <span id="next" class="onclick-r"></span>
+        <span id="prevTop" class="btn prev"></span>
+        <span id="nextTop" class="btn next"></span>
+        <div class="listpicbox">
+            <ul class="listpic cf">  <li class="on"><i class="arr2"></i><img width="74"src="http://www.js139.cn/data/attachment/2014-10-23/pre_7wqyqcmlkgml.jpg" alt="" /></li>  <li class="arr2"><i class="arr2"></i><img width="74"src="http://www.js139.cn/data/attachment/2014-10-23/pre_75l8jad4edwh.jpg" alt="" /></li>  <li class="arr2"><i class="arr2"></i><img width="74"src="http://www.js139.cn/data/attachment/2014-10-23/pre_9ghm2ftqjmqv.jpg" alt="" /></li>  <li class="arr2"><i class="arr2"></i><img width="74"src="http://www.js139.cn/data/attachment/2014-10-23/pre_fftbfxlp46vn.jpg" alt="" /></li>  </ul>
+        </div>
+    </div>
+</div>
+        </div>
+        <div class="article_box" id="article_box-3" style="display:none">
+            
+            <div class="focus mod18">
+    <div id="picBox3" class="picBox">
+        <ul class="bigpic cf">  <li><a href="http://v.youku.com/v_show/id_XODA2OTk1MjU2.html?from=y1.3-tv-grid-1007-9910.86804.1-3" class="stat-click"  target="_blank" ajaxurl="http://183.207.232.253/?stat/click/id/245/local/3.html"><img src="http://www.js139.cn/data/attachment/2014-10-23/pre_mrbqe6wxvvqb.jpg" width="670" /></a></li>  <li><a href="http://v.youku.com/v_show/id_XODA5MjgzMDcy.html?from=y1.3-tv-grid-1007-9910.86804.1-7" class="stat-click"  target="_blank" ajaxurl="http://183.207.232.253/?stat/click/id/250/local/3.html"><img src="http://www.js139.cn/data/attachment/2014-10-23/pre_ac2an2nujq4q.png" width="670" /></a></li>  <li><a href="http://v.youku.com/v_show/id_XODA5MTMwNzg4.html?from=y1.3-tv-grid-1007-9910.86804.1-11" class="stat-click"  target="_blank" ajaxurl="http://183.207.232.253/?stat/click/id/246/local/3.html"><img src="http://www.js139.cn/data/attachment/2014-10-23/pre_rfcrdrbvpblk.png" width="670" /></a></li>  <li><a href="http://v.youku.com/v_show/id_XODA5MjIxMjM2.html?from=y1.3-tv-grid-1007-9910.86804.1-1" class="stat-click"  target="_blank" ajaxurl="http://183.207.232.253/?stat/click/id/247/local/3.html"><img src="http://www.js139.cn/data/attachment/2014-10-23/pre_pa3bynvcqn6x.jpg" width="670" /></a></li>  <li><a href="http://v.youku.com/v_show/id_XODA4NjU3NTk2.html?from=y1.3-tv-grid-1007-9910.86804.1-2" class="stat-click"  target="_blank" ajaxurl="http://183.207.232.253/?stat/click/id/248/local/3.html"><img src="http://www.js139.cn/data/attachment/2014-10-23/pre_vsqy5wskb3gj.jpg" width="670" /></a></li>  <li><a href="http://v.youku.com/v_show/id_XODA4NjAwNjMy.html?from=y1.3-tv-grid-1007-9910.86804.1-4" class="stat-click"  target="_blank" ajaxurl="http://183.207.232.253/?stat/click/id/249/local/3.html"><img src="http://www.js139.cn/data/attachment/2014-10-23/pre_gglynehsk2en.jpg" width="670" /></a></li>  </ul>
+    </div>
+    <div class="listBox" id="listBox">
+        <span id="prev" class="onclick-l"></span>
+        <span id="next" class="onclick-r"></span>
+        <span id="prevTop" class="btn prev"></span>
+        <span id="nextTop" class="btn next"></span>
+        <div class="listpicbox">
+            <ul class="listpic cf">  <li class="on"><i class="arr2"></i><img width="74"src="http://www.js139.cn/data/attachment/2014-10-23/pre_9vbjmwdc2sfj.jpg" alt="" /></li>  <li class="arr2"><i class="arr2"></i><img width="74"src="http://www.js139.cn/data/attachment/2014-10-23/pre_xdaq6a4harks.jpg" alt="" /></li>  <li class="arr2"><i class="arr2"></i><img width="74"src="http://www.js139.cn/data/attachment/2014-10-23/pre_mxnfcafxvgfm.jpg" alt="" /></li>  <li class="arr2"><i class="arr2"></i><img width="74"src="http://www.js139.cn/data/attachment/2014-10-23/pre_vmuuc7vuktts.jpg" alt="" /></li>  <li class="arr2"><i class="arr2"></i><img width="74"src="http://www.js139.cn/data/attachment/2014-10-23/pre_g6dqwj7emqvt.jpg" alt="" /></li>  <li class="arr2"><i class="arr2"></i><img width="74"src="http://www.js139.cn/data/attachment/2014-10-23/pre_gsmntpawnmaf.jpg" alt="" /></li>  </ul>
+        </div>
+    </div>
+</div>
+        </div>
+        <div class="article_box" id="article_box-4" style="display:none" ajaxurl="/?index/banner.html"></div>
+
+        <!-- links -->  <div class="mh-best-top martop15">
+        <h3>门户精选</h3>
+        <ul class="mh-tab" id="mhtb0">  <li class="mh" onclick="mhtb(this, 0 );">门户 </li>  <li class="mhn" onclick="mhtb(this, 1 );">新闻 </li>  <li class="mhn" onclick="mhtb(this, 2 );">军事 </li>  </ul>
+    </div>  <div class="mh-best-detail clearfix" id="mhtb0_c_0" style="height:82px;display: block">  <a ajaxurl="http://183.207.232.253/?stat/link/id/16/grp/0.html" target="_blank" href="http://www.js.10086.cn/" title="江苏移动" class="stat-click"><img src="http://www.js139.cn/data/attachment/2013-11-21/pre_bbycha9rhlyg.jpg" alt="" />江苏移动</a>  <a ajaxurl="http://183.207.232.253/?stat/link/id/1/grp/0.html" target="_blank" href="http://www.qq.com/" title="腾讯" class="stat-click"><img src="http://www.js139.cn/data/attachment/2013-11-21/pre_kkbfwerdmuvu.png" alt="" />腾讯</a>  <a ajaxurl="http://183.207.232.253/?stat/link/id/17/grp/0.html" target="_blank" href="http://www.163.com/" title="网易" class="stat-click"><img src="http://www.js139.cn/data/attachment/2013-11-21/pre_px5vmxwsbwh6.png" alt="" />网易</a>  <a ajaxurl="http://183.207.232.253/?stat/link/id/3/grp/0.html" target="_blank" href="http://www.sohu.com/" title="搜狐" class="stat-click"><img src="http://www.js139.cn/data/attachment/2013-11-21/pre_mkmbctfnv2ja.png" alt="" />搜狐</a>  <a ajaxurl="http://183.207.232.253/?stat/link/id/4/grp/0.html" target="_blank" href="http://www.sina.com.cn/" title="新浪" class="stat-click"><img src="http://www.js139.cn/data/attachment/2013-11-21/pre_trtwvswpb5xt.png" alt="" />新浪</a>  <a ajaxurl="http://183.207.232.253/?stat/link/id/5/grp/0.html" target="_blank" href="http://www.ifeng.com/" title="凤凰网" class="stat-click"><img src="http://www.js139.cn/data/attachment/2013-11-21/pre_fuvphgpdbvrj.png" alt="" />凤凰网</a>  <a ajaxurl="http://183.207.232.253/?stat/link/id/6/grp/0.html" target="_blank" href="http://www.baidu.com/" title="百度" class="stat-click"><img src="http://www.js139.cn/data/attachment/2013-11-21/pre_lckah856vudv.png" alt="" />百度</a>  <a ajaxurl="http://183.207.232.253/?stat/link/id/7/grp/0.html" target="_blank" href="http://www.cntv.cn/" title="央视网" class="stat-click"><img src="http://www.js139.cn/data/attachment/2013-11-21/pre_sweqqg3qf4mq.png" alt="" />央视网</a>  <a ajaxurl="http://183.207.232.253/?stat/link/id/8/grp/0.html" target="_blank" href="http://www.eastday.com/" title="东方网" class="stat-click"><img src="http://www.js139.cn/data/attachment/2013-11-21/pre_nrj39xksmp2t.jpg" alt="" />东方网</a>  <a ajaxurl="http://183.207.232.253/?stat/link/id/9/grp/0.html" target="_blank" href="http://www.tom.com/" title="TOM" class="stat-click"><img src="http://www.js139.cn/data/attachment/2013-11-21/pre_dkmukfukksbg.jpg" alt="" />TOM</a>  <a ajaxurl="http://183.207.232.253/?stat/link/id/10/grp/0.html" target="_blank" href="http://www.google.cn/" title="谷歌" class="stat-click"><img src="http://www.js139.cn/data/attachment/2013-11-21/pre_utjb3vdjm5mn.jpg" alt="" />谷歌</a>  <a ajaxurl="http://183.207.232.253/?stat/link/id/11/grp/0.html" target="_blank" href="http://www.jiangsu.gov.cn/" title="江苏省政府" class="stat-click"><img src="http://www.js139.cn/data/attachment/2013-11-21/pre_2jdmn5w3fdsk.png" alt="" />江苏省政府</a>  <a ajaxurl="http://183.207.232.253/?stat/link/id/12/grp/0.html" target="_blank" href="http://www.c114.net/" title="C114" class="stat-click"><img src="http://www.js139.cn/data/attachment/2016-08-01/pre_br4v9pl9qhjh.jpg" alt="" />C114</a>  <a ajaxurl="http://183.207.232.253/?stat/link/id/13/grp/0.html" target="_blank" href="http://www.chinanews.com/" title="中新网" class="stat-click"><img src="http://www.js139.cn/data/attachment/2013-11-21/pre_4adjmvtpsk8b.png" alt="" />中新网</a>  <a ajaxurl="http://183.207.232.253/?stat/link/id/14/grp/0.html" target="_blank" href="http://www.cnr.cn/" title="中国广播网" class="stat-click"><img src="http://www.js139.cn/data/attachment/2013-11-21/pre_5pcuvy6fj3q7.jpg" alt="" />中国广播网</a>  <a ajaxurl="http://183.207.232.253/?stat/link/id/15/grp/0.html" target="_blank" href="http://www.china.com.cn/" title="中国网" class="stat-click"><img src="http://www.js139.cn/data/attachment/2013-11-21/pre_grttab6hjmb5.jpg" alt="" />中国网</a>  <a ajaxurl="http://183.207.232.253/?stat/link/id/2/grp/0.html" target="_blank" href="http://www.people.com.cn/" title="人民网" class="stat-click"><img src="http://www.js139.cn/data/attachment/2013-11-21/pre_phadp8y94dm6.png" alt="" />人民网</a>  <a ajaxurl="http://183.207.232.253/?stat/link/id/18/grp/0.html" target="_blank" href="http://www.xinhuanet.com/" title="新华网" class="stat-click"><img src="http://www.js139.cn/data/attachment/2013-11-21/pre_9bvhpy7ee73j.png" alt="" />新华网</a>  </div>  <div class="mh-best-detail clearfix" id="mhtb0_c_1" style="height:82px;display: none">  <a ajaxurl="http://183.207.232.253/?stat/link/id/29/grp/0.html" target="_blank" href="http://news.baidu.com/" title="百度新闻" class="stat-click"><img src="http://www.js139.cn/data/attachment/2013-11-21/pre_mnevpjrnrnqn.png" alt="" />百度新闻</a>  <a ajaxurl="http://183.207.232.253/?stat/link/id/28/grp/0.html" target="_blank" href="http://news.eastday.com/" title="东方新闻" class="stat-click"><img src="http://www.js139.cn/data/attachment/2013-11-21/pre_5d3dmbmpbrfb.jpg" alt="" />东方新闻</a>  <a ajaxurl="http://183.207.232.253/?stat/link/id/27/grp/0.html" target="_blank" href="http://news.cntv.cn/" title="央视新闻" class="stat-click"><img src="http://www.js139.cn/data/attachment/2013-11-21/pre_dj776wygqqal.png" alt="" />央视新闻</a>  <a ajaxurl="http://183.207.232.253/?stat/link/id/26/grp/0.html" target="_blank" href="http://www.xinhuanet.com/newscenter" title="新华新闻" class="stat-click"><img src="http://www.js139.cn/data/attachment/2013-11-22/pre_wvtfywufupnt.png" alt="" />新华新闻</a>  <a ajaxurl="http://183.207.232.253/?stat/link/id/25/grp/0.html" target="_blank" href="http://news.people.com.cn/" title="人民新闻" class="stat-click"><img src="http://www.js139.cn/data/attachment/2013-11-21/pre_pb8snjqrh9bn.png" alt="" />人民新闻</a>  <a ajaxurl="http://183.207.232.253/?stat/link/id/24/grp/0.html" target="_blank" href="http://news.ifeng.com/" title="凤凰新闻" class="stat-click"><img src="http://www.js139.cn/data/attachment/2013-11-21/pre_gj64p6u7ra7c.png" alt="" />凤凰新闻</a>  <a ajaxurl="http://183.207.232.253/?stat/link/id/23/grp/0.html" target="_blank" href="http://news.sina.com.cn/" title="新浪新闻" class="stat-click"><img src="http://www.js139.cn/data/attachment/2013-11-21/pre_bmjhkumwwa9t.png" alt="" />新浪新闻</a>  <a ajaxurl="http://183.207.232.253/?stat/link/id/22/grp/0.html" target="_blank" href="http://news.163.com/" title="网易新闻" class="stat-click"><img src="http://www.js139.cn/data/attachment/2013-11-21/pre_rqmqdejtexc8.png" alt="" />网易新闻</a>  <a ajaxurl="http://183.207.232.253/?stat/link/id/21/grp/0.html" target="_blank" href="http://news.sohu.com/" title="搜狐新闻" class="stat-click"><img src="http://www.js139.cn/data/attachment/2013-11-21/pre_frv2g4egcjwa.png" alt="" />搜狐新闻</a>  <a ajaxurl="http://183.207.232.253/?stat/link/id/20/grp/0.html" target="_blank" href="http://news.qq.com/" title="腾讯新闻" class="stat-click"><img src="http://www.js139.cn/data/attachment/2013-11-21/pre_elcbg4mmn9ej.png" alt="" />腾讯新闻</a>  <a ajaxurl="http://183.207.232.253/?stat/link/id/19/grp/0.html" target="_blank" href="http://www.chinanews.com/" title="中国新闻网" class="stat-click"><img src="http://www.js139.cn/data/attachment/2013-11-21/pre_gnq6nqptckpb.png" alt="" />中国新闻网</a>  </div>  <div class="mh-best-detail clearfix" id="mhtb0_c_2" style="height:82px;display: none">  <a ajaxurl="http://183.207.232.253/?stat/link/id/38/grp/0.html" target="_blank" href="http://www.miercn.com/" title="米尔军情网" class="stat-click"><img src="http://www.js139.cn/data/attachment/2013-11-21/pre_phxwvsbpbt9s.png" alt="" />米尔军情网</a>  <a ajaxurl="http://183.207.232.253/?stat/link/id/37/grp/0.html" target="_blank" href="http://www.top81.com.cn/" title="鼎盛军事网" class="stat-click"><img src="http://www.js139.cn/data/attachment/2013-11-21/pre_uh4djapyxcdu.jpg" alt="" />鼎盛军事网</a>  <a ajaxurl="http://183.207.232.253/?stat/link/id/36/grp/0.html" target="_blank" href="http://mil.qianlong.com/" title="千龙军事" class="stat-click"><img src="http://www.js139.cn/data/attachment/2013-11-21/pre_baqq9s8snu2a.png" alt="" />千龙军事</a>  <a ajaxurl="http://183.207.232.253/?stat/link/id/35/grp/0.html" target="_blank" href="http://www.tiexue.net/" title="铁血网" class="stat-click"><img src="http://www.js139.cn/data/attachment/2013-11-21/pre_ewxswv9safee.png" alt="" />铁血网</a>  <a ajaxurl="http://183.207.232.253/?stat/link/id/34/grp/0.html" target="_blank" href="http://junshi.xilu.com/" title="西陆军事" class="stat-click"><img src="http://www.js139.cn/data/attachment/2013-11-21/pre_wfcsqhhuv4ms.png" alt="" />西陆军事</a>  <a ajaxurl="http://183.207.232.253/?stat/link/id/33/grp/0.html" target="_blank" href="http://mil.huanqiu.com/" title="环球网军事" class="stat-click"><img src="http://www.js139.cn/data/attachment/2013-11-21/pre_f2fktvx4tqmd.png" alt="" />环球网军事</a>  <a ajaxurl="http://183.207.232.253/?stat/link/id/32/grp/0.html" target="_blank" href="http://military.china.com/zh_cn/" title="中华网军事" class="stat-click"><img src="http://www.js139.cn/data/attachment/2013-11-21/pre_xtcpumjmaech.png" alt="" />中华网军事</a>  <a ajaxurl="http://183.207.232.253/?stat/link/id/31/grp/0.html" target="_blank" href="http://mil.news.sina.com.cn/" title="新浪军事" class="stat-click"><img src="http://www.js139.cn/data/attachment/2013-11-21/pre_fnckjccanvn4.png" alt="" />新浪军事</a>  <a ajaxurl="http://183.207.232.253/?stat/link/id/30/grp/0.html" target="_blank" href="http://mil.qq.com/mil_index.htm" title="腾讯军事" class="stat-click"><img src="http://www.js139.cn/data/attachment/2013-11-21/pre_fe6vfkbjq5mn.png" alt="" />腾讯军事</a>  </div>  <div class="mh-best-top ">
+        <h3>影视精选</h3>
+        <ul class="mh-tab" id="mhtb1">  <li class="mh" onclick="mhtb(this, 0 );">电视剧 </li>  <li class="mhn" onclick="mhtb(this, 1 );">电影 </li>  <li class="mhn" onclick="mhtb(this, 2 );">音乐 </li>  </ul>
+    </div>  <div class="mh-best-detail clearfix" id="mhtb1_c_0" style="height:82px;display: block">  <a ajaxurl="http://183.207.232.253/?stat/link/id/39/grp/1.html" target="_blank" href="http://tv.youku.com/" title="优酷" class="stat-click"><img src="http://www.js139.cn/data/attachment/2013-11-21/pre_rt85b4h4ysyn.png" alt="" />优酷</a>  <a ajaxurl="http://183.207.232.253/?stat/link/id/40/grp/1.html" target="_blank" href="http://v.qq.com/tv/" title="腾讯视频" class="stat-click"><img src="http://www.js139.cn/data/attachment/2013-11-21/pre_hdtkhs8tfnf6.png" alt="" />腾讯视频</a>  <a ajaxurl="http://183.207.232.253/?stat/link/id/41/grp/1.html" target="_blank" href="http://www.iqiyi.com/dianshiju/" title="爱奇艺" class="stat-click"><img src="http://www.js139.cn/data/attachment/2013-11-21/pre_ufgg8pcuu7q3.png" alt="" />爱奇艺</a>  <a ajaxurl="http://183.207.232.253/?stat/link/id/42/grp/1.html" target="_blank" href="http://tv.letv.com/" title="乐视网" class="stat-click"><img src="http://www.js139.cn/data/attachment/2013-11-21/pre_nrvpnehgetkn.png" alt="" />乐视网</a>  <a ajaxurl="http://183.207.232.253/?stat/link/id/43/grp/1.html" target="_blank" href="http://tv.sohu.com/drama/" title="搜狐高清" class="stat-click"><img src="http://www.js139.cn/data/attachment/2013-11-21/pre_geubbmsw5fq7.png" alt="" />搜狐高清</a>  <a ajaxurl="http://183.207.232.253/?stat/link/id/44/grp/1.html" target="_blank" href="http://www.pptv.com/?rcc_id=jsyd" title="PPTV聚力" class="stat-click"><img src="http://www.js139.cn/data/attachment/2014-04-01/pre_p74snrwm66mv.png" alt="" />PPTV聚力</a>  <a ajaxurl="http://183.207.232.253/?stat/link/id/45/grp/1.html" target="_blank" href="http://www.pps.tv/" title="PPS" class="stat-click"><img src="http://www.js139.cn/data/attachment/2013-11-21/pre_cc4mqlulq7be.png" alt="" />PPS</a>  <a ajaxurl="http://183.207.232.253/?stat/link/id/46/grp/1.html" target="_blank" href="http://www.funshion.com/tv/" title="风行高清" class="stat-click"><img src="http://www.js139.cn/data/attachment/2013-11-21/pre_xcmm5f2lgr5k.png" alt="" />风行高清</a>  <a ajaxurl="http://183.207.232.253/?stat/link/id/48/grp/1.html" target="_blank" href="http://dianshiju.cntv.cn/" title="CNTV" class="stat-click"><img src="http://www.js139.cn/data/attachment/2013-11-21/pre_ypq6w7ycvuqt.png" alt="" />CNTV</a>  <a ajaxurl="http://183.207.232.253/?stat/link/id/47/grp/1.html" target="_blank" href="http://video.sina.com.cn/" title="新浪高清" class="stat-click"><img src="http://www.js139.cn/data/attachment/2013-11-21/pre_vs7vgu4wb4dr.png" alt="" />新浪高清</a>  <a ajaxurl="http://183.207.232.253/?stat/link/id/49/grp/1.html" target="_blank" href="http://tvlist.56.com/" title="我乐网" class="stat-click"><img src="http://www.js139.cn/data/attachment/2013-11-21/pre_s5cbv7fgnkwk.png" alt="" />我乐网</a>  <a ajaxurl="http://183.207.232.253/?stat/link/id/50/grp/1.html" target="_blank" href="http://tv.kankan.com/" title="迅雷看看" class="stat-click"><img src="http://www.js139.cn/data/attachment/2013-11-21/pre_3rpu2vvbuskp.jpg" alt="" />迅雷看看</a>  <a ajaxurl="http://183.207.232.253/?stat/link/id/51/grp/1.html" target="_blank" href="http://www.cmvideo.cn/" title="移动视频" class="stat-click"><img src="http://www.js139.cn/data/attachment/2013-11-21/pre_mbdbqnpyfdjq.png" alt="" />移动视频</a>  <a ajaxurl="http://183.207.232.253/?stat/link/id/52/grp/1.html" target="_blank" href="http://www.ku6.com/" title="酷6网" class="stat-click"><img src="http://www.js139.cn/data/attachment/2013-11-21/pre_sevsxcqmstna.jpg" alt="" />酷6网</a>  <a ajaxurl="http://183.207.232.253/?stat/link/id/53/grp/1.html" target="_blank" href="http://www.tudou.com/" title="土豆网" class="stat-click"><img src="http://www.js139.cn/data/attachment/2013-11-21/pre_dypggevjsyns.jpg" alt="" />土豆网</a>  <a ajaxurl="http://183.207.232.253/?stat/link/id/54/grp/1.html" target="_blank" href="http://v.ifeng.com/" title="凤凰视频" class="stat-click"><img src="http://www.js139.cn/data/attachment/2013-11-21/pre_mwcdre9pteuk.png" alt="" />凤凰视频</a>  <a ajaxurl="http://183.207.232.253/?stat/link/id/55/grp/1.html" target="_blank" href="http://www.imgo.tv/dianshiju.shtml" title="芒果TV" class="stat-click"><img src="http://www.js139.cn/data/attachment/2013-11-21/pre_vrfrqnbcpr4r.jpg" alt="" />芒果TV</a>  <a ajaxurl="http://183.207.232.253/?stat/link/id/56/grp/1.html" target="_blank" href="http://video.baidu.com/tvplayindex/" title="百度视频" class="stat-click"><img src="http://www.js139.cn/data/attachment/2013-11-21/pre_d7uy6nrpvxqr.png" alt="" />百度视频</a>  </div>  <div class="mh-best-detail clearfix" id="mhtb1_c_1" style="height:82px;display: none">  <a ajaxurl="http://183.207.232.253/?stat/link/id/72/grp/1.html" target="_blank" href="http://v.ifeng.com/" title="凤凰视频" class="stat-click"><img src="http://www.js139.cn/data/attachment/2013-11-21/pre_jsnsfuxbhyky.png" alt="" />凤凰视频</a>  <a ajaxurl="http://183.207.232.253/?stat/link/id/71/grp/1.html" target="_blank" href="http://www.tudou.com/" title="土豆网" class="stat-click"><img src="http://www.js139.cn/data/attachment/2013-11-21/pre_9fpsal5qxudp.jpg" alt="" />土豆网</a>  <a ajaxurl="http://183.207.232.253/?stat/link/id/69/grp/1.html" target="_blank" href="http://www.cmvideo.cn/" title="移动视频" class="stat-click"><img src="http://www.js139.cn/data/attachment/2013-11-21/pre_kl6u4ncssdsl.jpg" alt="" />移动视频</a>  <a ajaxurl="http://183.207.232.253/?stat/link/id/68/grp/1.html" target="_blank" href="http://movie.kankan.com/" title="迅雷看看" class="stat-click"><img src="http://www.js139.cn/data/attachment/2013-11-21/pre_tje6kqvlqa9j.jpg" alt="" />迅雷看看</a>  <a ajaxurl="http://183.207.232.253/?stat/link/id/67/grp/1.html" target="_blank" href="http://movielist.56.com/" title="我乐网" class="stat-click"><img src="http://www.js139.cn/data/attachment/2013-11-21/pre_ghqv7ds3mnfq.png" alt="" />我乐网</a>  <a ajaxurl="http://183.207.232.253/?stat/link/id/66/grp/1.html" target="_blank" href="http://dianying.cntv.cn/" title="CNTV" class="stat-click"><img src="http://www.js139.cn/data/attachment/2013-11-21/pre_wkpfaqttq2qv.png" alt="" />CNTV</a>  <a ajaxurl="http://183.207.232.253/?stat/link/id/65/grp/1.html" target="_blank" href="http://video.sina.com.cn/movie/movie/" title="新浪高清" class="stat-click"><img src="http://www.js139.cn/data/attachment/2013-11-21/pre_khpqfjvsrqyc.png" alt="" />新浪高清</a>  <a ajaxurl="http://183.207.232.253/?stat/link/id/64/grp/1.html" target="_blank" href="http://www.funshion.com/movie/" title="风行高清" class="stat-click"><img src="http://www.js139.cn/data/attachment/2013-11-21/pre_psuw2mwcnmha.png" alt="" />风行高清</a>  <a ajaxurl="http://183.207.232.253/?stat/link/id/63/grp/1.html" target="_blank" href="http://v.pps.tv/movie-index.html" title="PPS" class="stat-click"><img src="http://www.js139.cn/data/attachment/2013-11-21/pre_vtqmjhtb5ggw.png" alt="" />PPS</a>  <a ajaxurl="http://183.207.232.253/?stat/link/id/62/grp/1.html" target="_blank" href="http://movie.pptv.com/?rcc_id=jsyd" title="PPTV聚力" class="stat-click"><img src="http://www.js139.cn/data/attachment/2014-04-01/pre_swh9sreu7lm3.png" alt="" />PPTV聚力</a>  <a ajaxurl="http://183.207.232.253/?stat/link/id/61/grp/1.html" target="_blank" href="http://tv.sohu.com/movie/" title="搜狐高清" class="stat-click"><img src="http://www.js139.cn/data/attachment/2013-11-21/pre_pcqgnguc2mkf.png" alt="" />搜狐高清</a>  <a ajaxurl="http://183.207.232.253/?stat/link/id/60/grp/1.html" target="_blank" href="http://movie.letv.com/" title="乐视网" class="stat-click"><img src="http://www.js139.cn/data/attachment/2013-11-21/pre_rt9qaaudqnxu.png" alt="" />乐视网</a>  <a ajaxurl="http://183.207.232.253/?stat/link/id/70/grp/1.html" target="_blank" href="http://www.ku6.com/" title="酷6网" class="stat-click"><img src="http://www.js139.cn/data/attachment/2013-11-21/pre_e46fktsjwacc.jpg" alt="" />酷6网</a>  <a ajaxurl="http://183.207.232.253/?stat/link/id/59/grp/1.html" target="_blank" href="http://www.iqiyi.com/dianying/" title="爱奇艺" class="stat-click"><img src="http://www.js139.cn/data/attachment/2013-11-21/pre_t83kyneuwwf7.png" alt="" />爱奇艺</a>  <a ajaxurl="http://183.207.232.253/?stat/link/id/58/grp/1.html" target="_blank" href="http://v.qq.com/movie/" title="腾讯视频" class="stat-click"><img src="http://www.js139.cn/data/attachment/2013-11-21/pre_2ed33smtudht.png" alt="" />腾讯视频</a>  <a ajaxurl="http://183.207.232.253/?stat/link/id/57/grp/1.html" target="_blank" href="http://movie.youku.com/" title="优酷" class="stat-click"><img src="http://www.js139.cn/data/attachment/2013-11-21/pre_qbpjsfwtvw9q.png" alt="" />优酷</a>  </div>  <div class="mh-best-detail clearfix" id="mhtb1_c_2" style="height:82px;display: none">  <a ajaxurl="http://183.207.232.253/?stat/link/id/85/grp/1.html" target="_blank" href="http://mv.ku6.com/" title="酷6音乐" class="stat-click"><img src="http://www.js139.cn/data/attachment/2013-11-21/pre_nvmf7smkvjhj.jpg" alt="" />酷6音乐</a>  <a ajaxurl="http://183.207.232.253/?stat/link/id/84/grp/1.html" target="_blank" href="http://music.youku.com/" title="优酷音乐" class="stat-click"><img src="http://www.js139.cn/data/attachment/2013-11-21/pre_syewhge63nnj.png" alt="" />优酷音乐</a>  <a ajaxurl="http://183.207.232.253/?stat/link/id/83/grp/1.html" target="_blank" href="http://y.qq.com/#type=index" title="QQ音乐" class="stat-click"><img src="http://www.js139.cn/data/attachment/2013-11-21/pre_4j9qpmmwnpgr.png" alt="" />QQ音乐</a>  <a ajaxurl="http://183.207.232.253/?stat/link/id/82/grp/1.html" target="_blank" href="http://www.xiami.com/" title="虾米音乐" class="stat-click"><img src="http://www.js139.cn/data/attachment/2013-11-21/pre_wcurhsufjvhp.png" alt="" />虾米音乐</a>  <a ajaxurl="http://183.207.232.253/?stat/link/id/81/grp/1.html" target="_blank" href="http://mp3.sogou.com/" title="搜狗音乐" class="stat-click"><img src="http://www.js139.cn/data/attachment/2013-11-21/pre_gcgv7shbjtha.png" alt="" />搜狗音乐</a>  <a ajaxurl="http://183.207.232.253/?stat/link/id/80/grp/1.html" target="_blank" href="http://www.9sky.com/" title="九天音乐" class="stat-click"><img src="http://www.js139.cn/data/attachment/2013-11-21/pre_3gp6vxnw7k5d.png" alt="" />九天音乐</a>  <a ajaxurl="http://183.207.232.253/?stat/link/id/79/grp/1.html" target="_blank" href="http://www.9ku.com/" title="九酷音乐" class="stat-click"><img src="http://www.js139.cn/data/attachment/2013-11-21/pre_rjqhxx8wr97r.png" alt="" />九酷音乐</a>  <a ajaxurl="http://183.207.232.253/?stat/link/id/78/grp/1.html" target="_blank" href="http://www.1ting.com/" title="一听音乐" class="stat-click"><img src="http://www.js139.cn/data/attachment/2013-11-21/pre_kg6vpjhgrc6f.png" alt="" />一听音乐</a>  <a ajaxurl="http://183.207.232.253/?stat/link/id/77/grp/1.html" target="_blank" href="http://music.baidu.com/?from=new_mp3" title="百度音乐" class="stat-click"><img src="http://www.js139.cn/data/attachment/2013-11-21/pre_qfkukchkk5gd.png" alt="" />百度音乐</a>  <a ajaxurl="http://183.207.232.253/?stat/link/id/75/grp/1.html" target="_blank" href="http://www.a8.com/" title="A8音乐网" class="stat-click"><img src="http://www.js139.cn/data/attachment/2013-11-21/pre_sgqsj4bvge3k.png" alt="" />A8音乐网</a>  <a ajaxurl="http://183.207.232.253/?stat/link/id/74/grp/1.html" target="_blank" href="http://www.yinyuetai.com/" title="音悦台" class="stat-click"><img src="http://www.js139.cn/data/attachment/2013-11-21/pre_s2gq8p6qy2tn.png" alt="" />音悦台</a>  <a ajaxurl="http://183.207.232.253/?stat/link/id/73/grp/1.html" target="_blank" href="http://www.kuwo.cn/" title="酷我音乐" class="stat-click"><img src="http://www.js139.cn/data/attachment/2013-11-21/pre_bhwqhveyf6l2.png" alt="" />酷我音乐</a>  </div>  <div class="mh-best-top ">
+        <h3>生活精选</h3>
+        <ul class="mh-tab" id="mhtb2">  <li class="mh" onclick="mhtb(this, 0 );">购物 </li>  <li class="mhn" onclick="mhtb(this, 1 );">数码 </li>  <li class="mhn" onclick="mhtb(this, 2 );">汽车 </li>  </ul>
+    </div>  <div class="mh-best-detail clearfix" id="mhtb2_c_0" style="height:82px;display: block">  <a ajaxurl="http://183.207.232.253/?stat/link/id/86/grp/2.html" target="_blank" href="http://www.taobao.com/" title="淘宝网" class="stat-click"><img src="http://www.js139.cn/data/attachment/2013-11-21/pre_bwdwlkjaf5e3.png" alt="" />淘宝网</a>  <a ajaxurl="http://183.207.232.253/?stat/link/id/87/grp/2.html" target="_blank" href="http://www.jd.com/" title="京东商城" class="stat-click"><img src="http://www.js139.cn/data/attachment/2013-11-21/pre_3qkkbcsd6k2e.jpg" alt="" />京东商城</a>  <a ajaxurl="http://183.207.232.253/?stat/link/id/88/grp/2.html" target="_blank" href="http://click.linktech.cn/?m=suning&amp;a=A100198187&amp;l=99999&amp;l_cd1=0&amp;l_cd2=1&amp;tu=http%3A%2F%2Fwww.suning.com" title="苏宁易购" class="stat-click"><img src="http://www.js139.cn/data/attachment/2013-11-21/pre_ldetje3rpnvq.jpg" alt="" />苏宁易购</a>  <a ajaxurl="http://183.207.232.253/?stat/link/id/89/grp/2.html" target="_blank" href="http://click.linktech.cn/?m=gome&amp;a=A100198187&amp;l=99999&amp;l_cd1=0&amp;l_cd2=1&amp;tu=http%3A%2F%2Fwww.gome.com.cn" title="国美在线" class="stat-click"><img src="http://www.js139.cn/data/attachment/2013-11-21/pre_vawv9chdgp7j.png" alt="" />国美在线</a>  <a ajaxurl="http://183.207.232.253/?stat/link/id/90/grp/2.html" target="_blank" href="http://www.amazon.cn/" title="亚马逊" class="stat-click"><img src="http://www.js139.cn/data/attachment/2013-11-21/pre_5w5chec895qf.png" alt="" />亚马逊</a>  <a ajaxurl="http://183.207.232.253/?stat/link/id/91/grp/2.html" target="_blank" href="http://click.linktech.cn/?m=dangdang&amp;a=A100198187&amp;l=99999&amp;l_cd1=0&amp;l_cd2=1&amp;tu=http%3A%2F%2Fwww.dangdang.com%2F" title="当当网" class="stat-click"><img src="http://www.js139.cn/data/attachment/2013-11-21/pre_d7ktale2vbmh.png" alt="" />当当网</a>  <a ajaxurl="http://183.207.232.253/?stat/link/id/92/grp/2.html" target="_blank" href="http://click.linktech.cn/?m=yihaodian&amp;a=A100198187&amp;l=99999&amp;l_cd1=0&amp;l_cd2=1&amp;tu=http%3A%2F%2Fwww.yhd.com%2F" title="1号店" class="stat-click"><img src="http://www.js139.cn/data/attachment/2013-11-21/pre_3c94nqmbmklu.png" alt="" />1号店</a>  <a ajaxurl="http://183.207.232.253/?stat/link/id/93/grp/2.html" target="_blank" href="http://click.linktech.cn/?m=icson&amp;a=A100198187&amp;l=99999&amp;l_cd1=0&amp;l_cd2=1&amp;tu=http%3A%2F%2Fwww.yixun.com" title="易迅网" class="stat-click"><img src="http://www.js139.cn/data/attachment/2013-11-21/pre_ch53vdafnmjr.jpg" alt="" />易迅网</a>  <a ajaxurl="http://183.207.232.253/?stat/link/id/94/grp/2.html" target="_blank" href="http://click.linktech.cn/?m=meituan&amp;a=A100198187&amp;l=99999&amp;l_cd1=0&amp;l_cd2=1&amp;tu=http%3A%2F%2Fwww.meituan.com" title="美团网" class="stat-click"><img src="http://www.js139.cn/data/attachment/2013-11-21/pre_5ttxu9x7afg9.png" alt="" />美团网</a>  <a ajaxurl="http://183.207.232.253/?stat/link/id/95/grp/2.html" target="_blank" href="http://www.paipai.com/" title="拍拍网" class="stat-click"><img src="http://www.js139.cn/data/attachment/2013-11-21/pre_vahwbekbdlcv.png" alt="" />拍拍网</a>  <a ajaxurl="http://183.207.232.253/?stat/link/id/96/grp/2.html" target="_blank" href="http://click.linktech.cn/?m=vipshop&amp;a=A100198187&amp;l=99999&amp;l_cd1=0&amp;l_cd2=1&amp;tu=http%3A%2F%2Fwww.vip.com%2F" title="唯品会" class="stat-click"><img src="http://www.js139.cn/data/attachment/2013-11-21/pre_8cfqwv3xsu2v.jpg" alt="" />唯品会</a>  <a ajaxurl="http://183.207.232.253/?stat/link/id/97/grp/2.html" target="_blank" href="http://www.12306.cn/mormhweb/" title="12306" class="stat-click"><img src="http://www.js139.cn/data/attachment/2013-11-21/pre_b9qlrehktxfa.jpg" alt="" />12306</a>  <a ajaxurl="http://183.207.232.253/?stat/link/id/98/grp/2.html" target="_blank" href="http://click.linktech.cn/?m=newegg&amp;a=A100198187&amp;l=99999&amp;l_cd1=0&amp;l_cd2=1&amp;tu=http%3A%2F%2Fwww.newegg.cn" title="新蛋网" class="stat-click"><img src="http://www.js139.cn/data/attachment/2013-11-21/pre_xd4swtmvp7qc.jpg" alt="" />新蛋网</a>  <a ajaxurl="http://183.207.232.253/?stat/link/id/99/grp/2.html" target="_blank" href="http://www.tmall.com/" title="淘宝商城" class="stat-click"><img src="http://www.js139.cn/data/attachment/2013-11-21/pre_rwypva2parfc.jpg" alt="" />淘宝商城</a>  <a ajaxurl="http://183.207.232.253/?stat/link/id/100/grp/2.html" target="_blank" href="http://www.1688.com/" title="阿里巴巴" class="stat-click"><img src="http://www.js139.cn/data/attachment/2013-11-21/pre_q5cbu85taf9w.jpg" alt="" />阿里巴巴</a>  <a ajaxurl="http://183.207.232.253/?stat/link/id/101/grp/2.html" target="_blank" href="http://www.vancl.com/" title="凡客诚品" class="stat-click"><img src="http://www.js139.cn/data/attachment/2013-11-21/pre_uaeujnxr5kem.jpg" alt="" />凡客诚品</a>  <a ajaxurl="http://183.207.232.253/?stat/link/id/102/grp/2.html" target="_blank" href="http://click.linktech.cn/?m=lafaso&amp;a=A100198187&amp;l=99999&amp;l_cd1=0&amp;l_cd2=1&amp;tu=http%3A%2F%2Fwww.lefeng.com" title="乐蜂网" class="stat-click"><img src="http://www.js139.cn/data/attachment/2013-11-21/pre_rnkjqksjnavt.jpg" alt="" />乐蜂网</a>  <a ajaxurl="http://183.207.232.253/?stat/link/id/103/grp/2.html" target="_blank" href="http://click.linktech.cn/?m=jumei&amp;a=A100198187&amp;l=99999&amp;l_cd1=0&amp;l_cd2=1&amp;tu=http%3A%2F%2Fsh.jumei.com%2F" title="聚美优品" class="stat-click"><img src="http://www.js139.cn/data/attachment/2013-11-21/pre_xnwru7eas4u9.jpg" alt="" />聚美优品</a>  </div>  <div class="mh-best-detail clearfix" id="mhtb2_c_1" style="height:82px;display: none">  <a ajaxurl="http://183.207.232.253/?stat/link/id/117/grp/2.html" target="_blank" href="http://www.win7china.com/" title="WIN7之家" class="stat-click"><img src="http://www.js139.cn/data/attachment/2013-11-21/pre_5e5djnrvfea6.jpg" alt="" />WIN7之家</a>  <a ajaxurl="http://183.207.232.253/?stat/link/id/116/grp/2.html" target="_blank" href="http://www.360.cn/" title="360" class="stat-click"><img src="http://www.js139.cn/data/attachment/2013-11-21/pre_gmxadvtm2hrr.jpg" alt="" />360</a>  <a ajaxurl="http://183.207.232.253/?stat/link/id/115/grp/2.html" target="_blank" href="http://www.pchome.net/" title="电脑之家" class="stat-click"><img src="http://www.js139.cn/data/attachment/2013-11-21/pre_sltjbbfehmmm.jpg" alt="" />电脑之家</a>  <a ajaxurl="http://183.207.232.253/?stat/link/id/114/grp/2.html" target="_blank" href="http://www.it168.com/" title="IT168" class="stat-click"><img src="http://www.js139.cn/data/attachment/2013-11-21/pre_vbe5aw8yuauk.jpg" alt="" />IT168</a>  <a ajaxurl="http://183.207.232.253/?stat/link/id/113/grp/2.html" target="_blank" href="http://www.pcpop.com/" title="泡泡网" class="stat-click"><img src="http://www.js139.cn/data/attachment/2013-11-21/pre_eqeac6eahay7.jpg" alt="" />泡泡网</a>  <a ajaxurl="http://183.207.232.253/?stat/link/id/112/grp/2.html" target="_blank" href="http://www.pconline.com.cn/" title="太平洋电脑" class="stat-click"><img src="http://www.js139.cn/data/attachment/2013-11-21/pre_ghl4jj6ft7cp.jpg" alt="" />太平洋电脑</a>  <a ajaxurl="http://183.207.232.253/?stat/link/id/111/grp/2.html" target="_blank" href="http://www.zol.com.cn/" title="中关村在线" class="stat-click"><img src="http://www.js139.cn/data/attachment/2013-11-21/pre_y3g2kshw6a6p.jpg" alt="" />中关村在线</a>  <a ajaxurl="http://183.207.232.253/?stat/link/id/110/grp/2.html" target="_blank" href="http://www.91.com/" title="91手机" class="stat-click"><img src="http://www.js139.cn/data/attachment/2013-11-21/pre_tkrtgyaspur9.jpg" alt="" />91手机</a>  <a ajaxurl="http://183.207.232.253/?stat/link/id/109/grp/2.html" target="_blank" href="http://www.weiphone.com/" title="威锋网" class="stat-click"><img src="http://www.js139.cn/data/attachment/2013-11-21/pre_ekkue3vd5j92.jpg" alt="" />威锋网</a>  <a ajaxurl="http://183.207.232.253/?stat/link/id/108/grp/2.html" target="_blank" href="http://android.tgbus.com/" title="安卓中文网" class="stat-click"><img src="http://www.js139.cn/data/attachment/2013-11-21/pre_pshxhfpq7kew.jpg" alt="" />安卓中文网</a>  <a ajaxurl="http://183.207.232.253/?stat/link/id/107/grp/2.html" target="_blank" href="http://www.gfan.com/" title="机锋" class="stat-click"><img src="http://www.js139.cn/data/attachment/2013-11-21/pre_phy9b4fkxde9.jpg" alt="" />机锋</a>  <a ajaxurl="http://183.207.232.253/?stat/link/id/106/grp/2.html" target="_blank" href="http://digi.it.sohu.com/" title="搜狐手机" class="stat-click"><img src="http://www.js139.cn/data/attachment/2013-11-21/pre_jvt3bqrfbn2u.png" alt="" />搜狐手机</a>  <a ajaxurl="http://183.207.232.253/?stat/link/id/105/grp/2.html" target="_blank" href="http://mobile.sina.com.cn/" title="新浪手机" class="stat-click"><img src="http://www.js139.cn/data/attachment/2013-11-21/pre_ktw9cwchtfsl.png" alt="" />新浪手机</a>  <a ajaxurl="http://183.207.232.253/?stat/link/id/104/grp/2.html" target="_blank" href="http://mobile.pconline.com.cn/" title="太平洋手机" class="stat-click"><img src="http://www.js139.cn/data/attachment/2013-11-21/pre_2pgcaxgwjaq9.jpg" alt="" />太平洋手机</a>  </div>  <div class="mh-best-detail clearfix" id="mhtb2_c_2" style="height:82px;display: none">  <a ajaxurl="http://183.207.232.253/?stat/link/id/123/grp/2.html" target="_blank" href="http://auto.sina.com.cn/" title="新浪汽车" class="stat-click"><img src="http://www.js139.cn/data/attachment/2013-11-21/pre_sv72mjprkew8.png" alt="" />新浪汽车</a>  <a ajaxurl="http://183.207.232.253/?stat/link/id/122/grp/2.html" target="_blank" href="http://www.pcauto.com.cn/" title="太平洋汽车" class="stat-click"><img src="http://www.js139.cn/data/attachment/2013-11-21/pre_kgjskhwymrth.jpg" alt="" />太平洋汽车</a>  <a ajaxurl="http://183.207.232.253/?stat/link/id/121/grp/2.html" target="_blank" href="http://www.xcar.com.cn/" title="爱卡汽车" class="stat-click"><img src="http://www.js139.cn/data/attachment/2013-11-21/pre_ekw4abcjekth.jpg" alt="" />爱卡汽车</a>  <a ajaxurl="http://183.207.232.253/?stat/link/id/158/grp/2.html" target="_blank" href="http://www.che300.com/" title="二手车" class="stat-click"><img src="http://www.js139.cn/data/attachment/2015-04-17/pre_7ntufpstvljp.png" alt="" />二手车</a>  <a ajaxurl="http://183.207.232.253/?stat/link/id/120/grp/2.html" target="_blank" href="http://auto.sohu.com/" title="搜狐汽车" class="stat-click"><img src="http://www.js139.cn/data/attachment/2013-11-21/pre_yj4wjvbstpnx.png" alt="" />搜狐汽车</a>  <a ajaxurl="http://183.207.232.253/?stat/link/id/119/grp/2.html" target="_blank" href="http://www.autohome.com.cn/" title="汽车之家" class="stat-click"><img src="http://www.js139.cn/data/attachment/2013-11-21/pre_p8dq79wdcngc.jpg" alt="" />汽车之家</a>  <a ajaxurl="http://183.207.232.253/?stat/link/id/118/grp/2.html" target="_blank" href="http://www.cheshi.com/" title="网上车市" class="stat-click"><img src="http://www.js139.cn/data/attachment/2013-11-21/pre_ptecfn5sc9sn.jpg" alt="" />网上车市</a>  </div>  <div class="mh-best-top ">
+        <h3>服务精选</h3>
+        <ul class="mh-tab" id="mhtb3">  <li class="mh" onclick="mhtb(this, 0 );">社交 </li>  <li class="mhn" onclick="mhtb(this, 1 );">下载 </li>  <li class="mhn" onclick="mhtb(this, 2 );">邮箱 </li>  </ul>
+    </div>  <div class="mh-best-detail clearfix" id="mhtb3_c_0" style="height:82px;display: block">  <a ajaxurl="http://183.207.232.253/?stat/link/id/124/grp/3.html" target="_blank" href="http://weibo.com" title="新浪微博" class="stat-click"><img src="http://www.js139.cn/data/attachment/2013-11-21/pre_ewpfg5e3gv7c.png" alt="" />新浪微博</a>  <a ajaxurl="http://183.207.232.253/?stat/link/id/125/grp/3.html" target="_blank" href="http://t.qq.com/" title="腾讯微博" class="stat-click"><img src="http://www.js139.cn/data/attachment/2013-11-21/pre_lkpxhgrnq4ee.png" alt="" />腾讯微博</a>  <a ajaxurl="http://183.207.232.253/?stat/link/id/126/grp/3.html" target="_blank" href="http://www.baihe.com/" title="百合网" class="stat-click"><img src="http://www.js139.cn/data/attachment/2013-11-21/pre_tfrbctuvvv8t.png" alt="" />百合网</a>  <a ajaxurl="http://183.207.232.253/?stat/link/id/127/grp/3.html" target="_blank" href="http://www.douban.com/" title="豆瓣网" class="stat-click"><img src="http://www.js139.cn/data/attachment/2013-11-21/pre_5jtmetx8xpra.png" alt="" />豆瓣网</a>  <a ajaxurl="http://183.207.232.253/?stat/link/id/128/grp/3.html" target="_blank" href="http://www.renren.com/" title="人人网" class="stat-click"><img src="http://www.js139.cn/data/attachment/2013-11-21/pre_jmvp44ccm7x9.png" alt="" />人人网</a>  <a ajaxurl="http://183.207.232.253/?stat/link/id/129/grp/3.html" target="_blank" href="http://www.kaixin001.com/" title="开心网" class="stat-click"><img src="http://www.js139.cn/data/attachment/2013-11-21/pre_rjxhnv3kgkjm.png" alt="" />开心网</a>  <a ajaxurl="http://183.207.232.253/?stat/link/id/130/grp/3.html" target="_blank" href="http://www.51.com/" title="51社区" class="stat-click"><img src="http://www.js139.cn/data/attachment/2013-11-21/pre_aekunrtf4vdp.png" alt="" />51社区</a>  <a ajaxurl="http://183.207.232.253/?stat/link/id/131/grp/3.html" target="_blank" href="http://www.jiayuan.com/" title="世纪佳缘" class="stat-click"><img src="http://www.js139.cn/data/attachment/2013-11-21/pre_hj3kjqraw9dr.png" alt="" />世纪佳缘</a>  <a ajaxurl="http://183.207.232.253/?stat/link/id/132/grp/3.html" target="_blank" href="http://www.tianya.cn/" title="天涯" class="stat-click"><img src="http://www.js139.cn/data/attachment/2013-11-21/pre_7sjxsmljvu9l.png" alt="" />天涯</a>  <a ajaxurl="http://183.207.232.253/?stat/link/id/133/grp/3.html" target="_blank" href="http://www.mop.com/" title="猫扑" class="stat-click"><img src="http://www.js139.cn/data/attachment/2013-11-21/pre_acg5kvmjc59p.png" alt="" />猫扑</a>  <a ajaxurl="http://183.207.232.253/?stat/link/id/134/grp/3.html" target="_blank" href="http://www.zhenai.com/" title="珍爱网" class="stat-click"><img src="http://www.js139.cn/data/attachment/2013-11-21/pre_cu5yhhequw9u.jpg" alt="" />珍爱网</a>  <a ajaxurl="http://183.207.232.253/?stat/link/id/135/grp/3.html" target="_blank" href="http://weibo.10086.cn/" title="移动微博" class="stat-click"><img src="http://www.js139.cn/data/attachment/2013-11-21/pre_uevghcdart7a.jpg" alt="" />移动微博</a>  <a ajaxurl="http://183.207.232.253/?stat/link/id/136/grp/3.html" target="_blank" href="http://i.qq.com/" title="QQ空间" class="stat-click"><img src="http://www.js139.cn/data/attachment/2013-11-21/pre_kdbk2ast3tat.png" alt="" />QQ空间</a>  <a ajaxurl="http://183.207.232.253/?stat/link/id/137/grp/3.html" target="_blank" href="http://t.163.com/session" title="网易微博" class="stat-click"><img src="http://www.js139.cn/data/attachment/2013-11-21/pre_haaehgdvpjav.png" alt="" />网易微博</a>  <a ajaxurl="http://183.207.232.253/?stat/link/id/138/grp/3.html" target="_blank" href="http://www.xici.net/" title="西祠胡同" class="stat-click"><img src="http://www.js139.cn/data/attachment/2013-11-21/pre_c9hssf9hydvj.jpg" alt="" />西祠胡同</a>  <a ajaxurl="http://183.207.232.253/?stat/link/id/139/grp/3.html" target="_blank" href="http://tieba.baidu.com/" title="百度贴吧" class="stat-click"><img src="http://www.js139.cn/data/attachment/2013-11-21/pre_7jwmhmbmbwuf.png" alt="" />百度贴吧</a>  <a ajaxurl="http://183.207.232.253/?stat/link/id/140/grp/3.html" target="_blank" href="http://www.pengyou.com/" title="朋友网" class="stat-click"><img src="http://www.js139.cn/data/attachment/2013-11-21/pre_emqjegumpkrg.jpg" alt="" />朋友网</a>  <a ajaxurl="http://183.207.232.253/?stat/link/id/141/grp/3.html" target="_blank" href="http://bbs.taobao.com/" title="淘宝论坛" class="stat-click"><img src="http://www.js139.cn/data/attachment/2013-11-21/pre_96q95ttafanb.png" alt="" />淘宝论坛</a>  </div>  <div class="mh-best-detail clearfix" id="mhtb3_c_1" style="height:82px;display: none">  <a ajaxurl="http://183.207.232.253/?stat/link/id/149/grp/3.html" target="_blank" href="http://dl.xunlei.com/" title="迅雷" class="stat-click"><img src="http://www.js139.cn/data/attachment/2013-11-21/pre_nwuaqbmpquvf.jpg" alt="" />迅雷</a>  <a ajaxurl="http://183.207.232.253/?stat/link/id/148/grp/3.html" target="_blank" href="http://dl.pconline.com.cn/" title="太平洋下载" class="stat-click"><img src="http://www.js139.cn/data/attachment/2013-11-21/pre_pbpg3cfbfsbj.jpg" alt="" />太平洋下载</a>  <a ajaxurl="http://183.207.232.253/?stat/link/id/147/grp/3.html" target="_blank" href="http://www.xiazaiba.com/" title="下载吧" class="stat-click"><img src="http://www.js139.cn/data/attachment/2013-11-21/pre_pbrtvrskuw2d.jpg" alt="" />下载吧</a>  <a ajaxurl="http://183.207.232.253/?stat/link/id/146/grp/3.html" target="_blank" href="http://www.mydrivers.com/" title="驱动之家" class="stat-click"><img src="http://www.js139.cn/data/attachment/2013-11-21/pre_2ejc6j7aqe8v.jpg" alt="" />驱动之家</a>  <a ajaxurl="http://183.207.232.253/?stat/link/id/145/grp/3.html" target="_blank" href="http://www.skycn.com/" title="天空下载" class="stat-click"><img src="http://www.js139.cn/data/attachment/2013-11-21/pre_fncjsbknksvh.jpg" alt="" />天空下载</a>  <a ajaxurl="http://183.207.232.253/?stat/link/id/144/grp/3.html" target="_blank" href="http://www.duote.com/" title="多特软件" class="stat-click"><img src="http://www.js139.cn/data/attachment/2013-11-21/pre_wfrbphcl83nb.jpg" alt="" />多特软件</a>  <a ajaxurl="http://183.207.232.253/?stat/link/id/143/grp/3.html" target="_blank" href="http://www.crsky.com/" title="非凡软件站" class="stat-click"><img src="http://www.js139.cn/data/attachment/2013-11-21/pre_argdyjmw76d6.jpg" alt="" />非凡软件站</a>  <a ajaxurl="http://183.207.232.253/?stat/link/id/142/grp/3.html" target="_blank" href="http://www.onlinedown.net/" title="华军软件" class="stat-click"><img src="http://www.js139.cn/data/attachment/2013-11-21/pre_7pvrhrfubn36.jpg" alt="" />华军软件</a>  </div>  <div class="mh-best-detail clearfix" id="mhtb3_c_2" style="height:82px;display: none">  <a ajaxurl="http://183.207.232.253/?stat/link/id/157/grp/3.html" target="_blank" href="http://m.mail.qq.com/" title="腾讯邮箱" class="stat-click"><img src="http://www.js139.cn/data/attachment/2013-11-21/pre_5y8ffq4h7gha.png" alt="" />腾讯邮箱</a>  <a ajaxurl="http://183.207.232.253/?stat/link/id/156/grp/3.html" target="_blank" href="http://web.mail.tom.com/webmail/login/index.action" title="TOM邮箱" class="stat-click"><img src="http://www.js139.cn/data/attachment/2013-11-21/pre_8dbc6yu8rv8j.png" alt="" />TOM邮箱</a>  <a ajaxurl="http://183.207.232.253/?stat/link/id/155/grp/3.html" target="_blank" href="https://mail.google.com" title="gmail" class="stat-click"><img src="http://www.js139.cn/data/attachment/2013-11-21/pre_5gacvw2jmwn7.png" alt="" />gmail</a>  <a ajaxurl="http://183.207.232.253/?stat/link/id/154/grp/3.html" target="_blank" href="https://mail.sina.com.cn" title="新浪邮箱" class="stat-click"><img src="http://www.js139.cn/data/attachment/2013-11-21/pre_bsw4bac27jgj.png" alt="" />新浪邮箱</a>  <a ajaxurl="http://183.207.232.253/?stat/link/id/153/grp/3.html" target="_blank" href="http://mail.126.com/" title="126邮箱" class="stat-click"><img src="http://www.js139.cn/data/attachment/2013-11-21/pre_2rfljupsrcx7.png" alt="" />126邮箱</a>  <a ajaxurl="http://183.207.232.253/?stat/link/id/152/grp/3.html" target="_blank" href="http://mail.163.com/" title="163邮箱" class="stat-click"><img src="http://www.js139.cn/data/attachment/2013-11-21/pre_tneuffu9ktdj.png" alt="" />163邮箱</a>  <a ajaxurl="http://183.207.232.253/?stat/link/id/151/grp/3.html" target="_blank" href="http://mail.sohu.com/" title="搜狐邮箱" class="stat-click"><img src="http://www.js139.cn/data/attachment/2013-11-21/pre_mfakk4axe9de.png" alt="" />搜狐邮箱</a>  <a ajaxurl="http://183.207.232.253/?stat/link/id/150/grp/3.html" target="_blank" href="http://mail.10086.cn/" title="139邮箱" class="stat-click"><img src="http://www.js139.cn/data/attachment/2013-11-21/pre_l6ek44vjrrag.png" alt="" />139邮箱</a>  </div>  <!-- links -->
+        
+    </div>
+    <!-- aside -->
+    
+        <!-- 广告 -->
+        <!--   <div class="ad1 martop15">
+            <a class="stat-click" ajaxurl="/?stat/misc/id/0/extra/5.html" href="http://www.js.10086.cn/support/businesshelp/morehot/bushelp/2011/content63406.html" target="_blank"><img src="http://183.207.232.253/template/default/images/ad1.jpg" alt=""/></a></div>
+        --><!-- phone -->
+		<div class="aside fr">
+        <div class="index-news martop15">
+            <ul class="news-top2" id="list0">
+                <li class="yes" onclick="list(this,0);"><b>手机商城</b></li>
+                <li class="not" onclick="list(this,1);"><b>最新优惠</b></li>
+            </ul>
+            
+            <ul  class="ajaxload box1detail2" id="list0_c_0" style="display:block" ajaxurl="/?index/ads/local/5.html"></ul>
+            <div class="ajaxload box1detail2" id="list0_c_1" style="display:none"  ajaxurl="/?index/ads/local/6.html"></div>
+
+        </div>
+
+       <div class="aside fr">
+        <!-- 新闻tab -->
+        <div class="index-news">
+            <ul class="news-top" id="taber0">
+                <li class="on" onclick="taber(this,0);" style="width:138px;"><b>电影排行</b></li>
+                <li class="off" onclick="taber(this,1);" style="width:138px;"><b>电视剧排行</b></li>
+            </ul>
+            <!-- 底下前三个li 和 后面 4个li样式不用 请注意区分-->
+            <ul class="box1detail" id="taber0_c_0" style="display:block;height: 218px \9;">  <li>
+                    <b class="bg-yellow">1</b>
+                    <a class="newsdetail stat-click"  target="_blank"  ajaxurl="/?stat/misc/id/0/extra/1.html" href="http://www.youku.com/show_page/id_z9adc4c38bf8c11e3b8b7.html">星映话 2014</a>
+                    <span class="newsname"></span>
+                </li>  <li>
+                    <b class="bg-yellow">2</b>
+                    <a class="newsdetail stat-click"  target="_blank"  ajaxurl="/?stat/misc/id/0/extra/1.html" href="http://www.youku.com/show_page/id_z82fbceaa7cf111e3a705.html">北美票房排行榜  2014</a>
+                    <span class="newsname"></span>
+                </li>  <li>
+                    <b class="bg-yellow">3</b>
+                    <a class="newsdetail stat-click"  target="_blank"  ajaxurl="/?stat/misc/id/0/extra/1.html" href="http://www.youku.com/show_page/id_z3a35da1c63ba11e3a705.html">报告老板！</a>
+                    <span class="newsname"><a class="newsdetail stat-click"  target="_blank"  ajaxurl="http://183.207.232.253/?stat/misc/id/1/extra/1.html" href="http://www.youku.com/star_page/uid_UMzE1Mjc2MA==.html"  target="_blank">白客</a>/ <a class="newsdetail stat-click"  target="_blank"  ajaxurl="http://183.207.232.253/?stat/misc/id/1/extra/1.html" href="http://www.youku.com/star_page/uid_UMzM1ODQxMg==.html"  target="_blank">小爱</a>/ <a class="newsdetail stat-click"  target="_blank"  ajaxurl="http://183.207.232.253/?stat/misc/id/1/extra/1.html" href="http://www.youku.com/star_page/uid_UMzE0NDc3Ng==.html"  target="_blank">刘循子墨</a></span>
+                </li>  <li>
+                    <b class="bg-huise">4</b>
+                    <a class="newsdetail stat-click"  target="_blank"  ajaxurl="/?stat/misc/id/0/extra/1.html" href="http://www.youku.com/show_page/id_z5a17f1c41ec911e4b2ad.html">东泉宾馆</a>
+                    <span class="newsname"><a class="newsdetail stat-click"  target="_blank"  ajaxurl="http://183.207.232.253/?stat/misc/id/1/extra/1.html" href="http://www.youku.com/star_page/uid_UMjkwMjU5Mg==.html"  target="_blank">何强</a>/ <a class="newsdetail stat-click"  target="_blank"  ajaxurl="http://183.207.232.253/?stat/misc/id/1/extra/1.html" href="http://www.youku.com/star_page/uid_UMzQyODY1Ng==.html"  target="_blank">刘惟祎</a>/ <a class="newsdetail stat-click"  target="_blank"  ajaxurl="http://183.207.232.253/?stat/misc/id/1/extra/1.html" href="http://www.youku.com/star_page/uid_UMzQyODY2MA==.html"  target="_blank">钱磊</a></span>
+                </li>  <li>
+                    <b class="bg-huise">5</b>
+                    <a class="newsdetail stat-click"  target="_blank"  ajaxurl="/?stat/misc/id/0/extra/1.html" href="http://www.youku.com/show_page/id_z6956ca48033511e4b2ad.html">星时尚</a>
+                    <span class="newsname"></span>
+                </li>  <li>
+                    <b class="bg-huise">6</b>
+                    <a class="newsdetail stat-click"  target="_blank"  ajaxurl="/?stat/misc/id/0/extra/1.html" href="http://www.youku.com/show_page/id_z5389370c7cf111e3a705.html">内地票房排行榜 2014</a>
+                    <span class="newsname"></span>
+                </li>  <li>
+                    <b class="bg-huise">7</b>
+                    <a class="newsdetail stat-click"  target="_blank"  ajaxurl="/?stat/misc/id/0/extra/1.html" href="http://www.youku.com/show_page/id_z00c8ebdc5d7711e3a705.html">10放</a>
+                    <span class="newsname"></span>
+                </li>  </ul>
+            <ul class="box1detail" id="taber0_c_1" style="display:none;height: 218px \9;">  <li>
+                    <b class="bg-yellow">1</b>
+                    <a class="newsdetail stat-click"  target="_blank"  ajaxurl="/?stat/misc/id/0/extra/2.html" href="http://www.youku.com/show_page/id_z9ffa9418853611e2a19e.html">古剑奇谭</a>
+                    <span class="newsname"><a class="newsdetail stat-click"  target="_blank"  ajaxurl="http://183.207.232.253/?stat/misc/id/1/extra/1.html" href="http://www.youku.com/star_page/uid_UODUwMjA=.html" data-from="1-3" target="_blank">杨幂</a>/ <a class="newsdetail stat-click"  target="_blank"  ajaxurl="http://183.207.232.253/?stat/misc/id/1/extra/1.html" href="http://www.youku.com/star_page/uid_UMTM5MjU1Ng==.html" data-from="1-4" target="_blank">李易峰</a>/ <a class="newsdetail stat-click"  target="_blank"  ajaxurl="http://183.207.232.253/?stat/misc/id/1/extra/1.html" href="http://www.youku.com/star_page/uid_UNTU2NDg=.html" data-from="1-5" target="_blank">钟欣潼</a></span>
+                </li>  <li>
+                    <b class="bg-yellow">2</b>
+                    <a class="newsdetail stat-click"  target="_blank"  ajaxurl="/?stat/misc/id/0/extra/2.html" href="http://www.youku.com/show_page/id_z62144ad42e5b11e4abda.html">雪豹坚强岁月</a>
+                    <span class="newsname"><a class="newsdetail stat-click"  target="_blank"  ajaxurl="http://183.207.232.253/?stat/misc/id/1/extra/1.html" href="http://www.youku.com/star_page/uid_UMzA3MjcyMA==.html" data-from="2-3" target="_blank">张若昀</a>/ <a class="newsdetail stat-click"  target="_blank"  ajaxurl="http://183.207.232.253/?stat/misc/id/1/extra/1.html" href="http://www.youku.com/star_page/uid_UMTE4Mzg1Ng==.html" data-from="2-4" target="_blank">高洋</a>/ <a class="newsdetail stat-click"  target="_blank"  ajaxurl="http://183.207.232.253/?stat/misc/id/1/extra/1.html" href="http://www.youku.com/star_page/uid_UMTU1NzAzNg==.html" data-from="2-5" target="_blank">毛晓彤</a></span>
+                </li>  <li>
+                    <b class="bg-yellow">3</b>
+                    <a class="newsdetail stat-click"  target="_blank"  ajaxurl="/?stat/misc/id/0/extra/2.html" href="http://www.youku.com/show_page/id_z9189173c276b11e48b3f.html">新济公活佛</a>
+                    <span class="newsname"><a class="newsdetail stat-click"  target="_blank"  ajaxurl="http://183.207.232.253/?stat/misc/id/1/extra/1.html" href="http://www.youku.com/star_page/uid_UMTEyNDI4OA==.html" data-from="3-3" target="_blank">穆婷婷</a>/ <a class="newsdetail stat-click"  target="_blank"  ajaxurl="http://183.207.232.253/?stat/misc/id/1/extra/1.html" href="http://www.youku.com/star_page/uid_UNjQxOTI=.html" data-from="3-4" target="_blank">陈浩民</a>/ <a class="newsdetail stat-click"  target="_blank"  ajaxurl="http://183.207.232.253/?stat/misc/id/1/extra/1.html" href="http://www.youku.com/star_page/uid_UNjkwOTY=.html" data-from="3-5" target="_blank">陈紫函</a></span>
+                </li>  <li>
+                    <b class="bg-huise">4</b>
+                    <a class="newsdetail stat-click"  target="_blank"  ajaxurl="/?stat/misc/id/0/extra/2.html" href="http://www.youku.com/show_page/id_z20eb4acaf5c211e3b2ad.html">万万没想到 第二季</a>
+                    <span class="newsname"><a class="newsdetail stat-click"  target="_blank"  ajaxurl="http://183.207.232.253/?stat/misc/id/1/extra/1.html" href="http://www.youku.com/star_page/uid_UMzE1Mjc2MA==.html" data-from="4-3" target="_blank">白客</a>/ <a class="newsdetail stat-click"  target="_blank"  ajaxurl="http://183.207.232.253/?stat/misc/id/1/extra/1.html" href="http://www.youku.com/star_page/uid_UMzE0NDc3Ng==.html" data-from="4-4" target="_blank">刘循子墨</a>/ <a class="newsdetail stat-click"  target="_blank"  ajaxurl="http://183.207.232.253/?stat/misc/id/1/extra/1.html" href="http://www.youku.com/star_page/uid_UMzQxNTM0NA==.html" data-from="4-5" target="_blank">孔连顺</a></span>
+                </li>  <li>
+                    <b class="bg-huise">5</b>
+                    <a class="newsdetail stat-click"  target="_blank"  ajaxurl="/?stat/misc/id/0/extra/2.html" href="http://www.youku.com/show_page/id_z20c12302d55911e1b2ac.html">穷孩子富孩子</a>
+                    <span class="newsname"><a class="newsdetail stat-click"  target="_blank"  ajaxurl="http://183.207.232.253/?stat/misc/id/1/extra/1.html" href="http://www.youku.com/star_page/uid_UMTQzNTExNg==.html" data-from="5-3" target="_blank">李木子</a>/ <a class="newsdetail stat-click"  target="_blank"  ajaxurl="http://183.207.232.253/?stat/misc/id/1/extra/1.html" href="http://www.youku.com/star_page/uid_UMTYxNzI3Mg==.html" data-from="5-4" target="_blank">张倬闻</a>/ <a class="newsdetail stat-click"  target="_blank"  ajaxurl="http://183.207.232.253/?stat/misc/id/1/extra/1.html" href="http://www.youku.com/star_page/uid_UNDU4NjA=.html" data-from="5-5" target="_blank">汤镇宗</a></span>
+                </li>  <li>
+                    <b class="bg-huise">6</b>
+                    <a class="newsdetail stat-click"  target="_blank"  ajaxurl="/?stat/misc/id/0/extra/2.html" href="http://www.youku.com/show_page/id_zc2dd87522e5811e4b432.html">婚姻料理</a>
+                    <span class="newsname"><a class="newsdetail stat-click"  target="_blank"  ajaxurl="http://183.207.232.253/?stat/misc/id/1/extra/1.html" href="http://www.youku.com/star_page/uid_UODU4Njg=.html" data-from="6-3" target="_blank">闫妮</a>/ <a class="newsdetail stat-click"  target="_blank"  ajaxurl="http://183.207.232.253/?stat/misc/id/1/extra/1.html" href="http://www.youku.com/star_page/uid_UMTMwNTI3Ng==.html" data-from="6-4" target="_blank">赵立新</a>/ <a class="newsdetail stat-click"  target="_blank"  ajaxurl="http://183.207.232.253/?stat/misc/id/1/extra/1.html" href="http://www.youku.com/star_page/uid_UNjMzMTY=.html" data-from="6-5" target="_blank">姜武</a></span>
+                </li>  <li>
+                    <b class="bg-huise">7</b>
+                    <a class="newsdetail stat-click"  target="_blank"  ajaxurl="/?stat/misc/id/0/extra/2.html" href="http://www.youku.com/show_page/id_zf5c8ddde0d9111e4a705.html">舰在亚丁湾</a>
+                    <span class="newsname"><a class="newsdetail stat-click"  target="_blank"  ajaxurl="http://183.207.232.253/?stat/misc/id/1/extra/1.html" href="http://www.youku.com/star_page/uid_UOTMwMjA=.html" data-from="7-3" target="_blank">范志博</a>/ <a class="newsdetail stat-click"  target="_blank"  ajaxurl="http://183.207.232.253/?stat/misc/id/1/extra/1.html" href="http://www.youku.com/star_page/uid_UNTkxNjg=.html" data-from="7-4" target="_blank">胡可</a>/ <a class="newsdetail stat-click"  target="_blank"  ajaxurl="http://183.207.232.253/?stat/misc/id/1/extra/1.html" href="http://www.youku.com/star_page/uid_UNzExMzY=.html" data-from="7-5" target="_blank">张永刚</a></span>
+                </li>  </ul>
+            <ul class="box1detail" id="taber0_c_2" style="display:none;height: 218px \9;">  </ul>
+        </div>
+
+        <!-- 焦点图广告 -->
+        <div id="DestpicFlow" class="martop15">
+            <ul class="Slides">  <li style="display: none; position: absolute; top: 0pt; left: 0pt; z-index: 1; opacity: 1;">
+                    <a  target="_blank">
+                       <div class="s-box">
+                        <p class="title-pics"></p>
+                        <p class="phone-t"><input type="text" id="mobile" class="phone-text" value="请输入手机号码" onfocus="if(this.value==this.defaultValue){this.value='';}" onblur="if(this.value==''){this.value=this.defaultValue;}" /></p>
+                            <dl class="cz-tab" id="cz">
+                            	<dt class="cz-dt">
+                                	<span id="sss1" class="tabon" onclick="c_click('1','1',50)">50</span>
+                                    <span id="sss2" onclick="c_click('2','2',100)">100</span>
+                                    <span id="sss3" onclick="c_click('3','3',200)">200</span>
+                                    <span id="sss4" onclick="c_click('4','4',500)">500</span>
+                                </dt>
+                            </dl>
+                            <p class="s-btn"><img src="template/default/images/s-btn.png" onclick="c_submit()"/></p>
+                        </div>
+                    </a>
+                </li>
+            </ul>
+            <ul class="SlideTriggers">  <li class=""></li>
+            </ul>
+        </div>
+        
+    </div>
+</div>
+<script type="text/javascript">
+    var  action_url='http://service.js.10086.cn/wscz.jsp#WSCZYL@mobile=;money=50';
+	var  money=50;
+    function c_click(t_this,t_that,moneyy){
+	    money=moneyy;
+	    for(var i=1;i<=4;i++){
+		  if (i==t_this)
+		  {
+		   $("#sss"+i).attr("class", "tabon"); 
+	       $("#ddd"+i).show(); 
+
+		  }
+		  else{ 
+            $("#sss"+i).attr("class", ""); 
+	        $("#ddd"+i).hide(); 
+		  }
+		}
+    
+	}
+
+	function isDigit(s)
+	{
+		var patrn=/^[0-9]{1,20}$/;
+        if(s.length != 11) return false
+		if (!patrn.exec(s)) return false
+		return true
+	}
+
+	function c_submit(){
+      var mobile=$("#mobile").attr("value");
+
+      if(mobile =='' || !isDigit(mobile)){
+	    alert('请正确输入手机号码！');
+	    return false;
+	  }else{
+          if (typeof(_tag)!="undefined"){
+                _tag.dcsMultiTrack('WT.czfs','139-CZ','WT.tonum',mobile,'WT.tomon',money);
+          }
+		  action_url='http://service.js.10086.cn/wscz.jsp#WSCZYL@mobile='+mobile+';money='+money;
+		  window.location.href=action_url;
+	  }
+
+    }
+</script>
+
+
+<!-- scroll-1 -->
+<div class="section martop15">
+    <dl class="scrollbox1">
+        <dt>软<br />件<br />下<br />载</dt>
+        <dd class="boxcen">
+            <a id="on-l" class="oncl"></a>
+            <a id="on-r" class="oncr"></a>
+            <div class="width833" id="s-content">
+                <ul id="scroll-w" class="scroll-box" ajaxurl="/?index/soft.html"></ul>
+            </div>
+        </dd>
+    </dl>
+</div>
+<!-- scroll-2 -->
+<div class="section martop15">
+    <dl class="scrollbox1">
+        <dt>友<br />情<br />链<br />接</dt>
+        <dd class="boxcen">
+            <a id="o-pre" class="oncl"></a>
+            <a id="o-next" class="oncr"></a>
+            <div class="width833" id="s-content">
+                <ul id="scroll-b" class="scroll-box scroll-box2">  <li><a href="http://feixin.10086.cn/" target="_blank" class="stat-click" ajaxurl="/?stat/misc/id/0/extra/4.html"><img src="http://www.js139.cn/data/attachment/2013-11-21/pre_9hqhwtjkkmet.jpg" width="129" height="46" alt="飞信" /></a></li>  <li><a href="http://g.10086.cn/" target="_blank" class="stat-click" ajaxurl="/?stat/misc/id/0/extra/4.html"><img src="http://www.js139.cn/data/attachment/2013-11-21/pre_84phe8ynflfh.jpg" width="129" height="46" alt="移动游戏" /></a></li>  <li><a href="http://js.12530.com/cring/jsp/user/login.html" target="_blank" class="stat-click" ajaxurl="/?stat/misc/id/0/extra/4.html"><img src="http://www.js139.cn/data/attachment/2013-11-21/pre_vnrd4trhkbf5.jpg" width="129" height="46" alt="无线音乐俱乐部" /></a></li>  <li><a href="http://mm.10086.cn/" target="_blank" class="stat-click" ajaxurl="/?stat/misc/id/0/extra/4.html"><img src="http://www.js139.cn/data/attachment/2013-11-21/pre_yu7l36lymcja.jpg" width="129" height="46" alt="移动MM" /></a></li>  <li><a href="http://service.js.10086.cn/#home" target="_blank" class="stat-click" ajaxurl="/?stat/misc/id/0/extra/4.html"><img src="http://www.js139.cn/data/attachment/2013-11-21/pre_qncnjcajcdny.jpg" width="129" height="46" alt="江苏网厅" /></a></li>  <li><a href="http://mail.10086.cn/" target="_blank" class="stat-click" ajaxurl="/?stat/misc/id/0/extra/4.html"><img src="http://www.js139.cn/data/attachment/2013-11-21/pre_txmumyah9rfe.jpg" width="129" height="46" alt="139邮箱" /></a></li>  <li><a href="http://go.10086.cn/index.do?sso_command=checkLogin&amp;sso_cl_key=IXBYfEPWCo" target="_blank" class="stat-click" ajaxurl="/?stat/misc/id/0/extra/4.html"><img src="http://www.js139.cn/data/attachment/2013-11-21/pre_yss85ykgjgmg.jpg" width="129" height="46" alt="手机冲浪" /></a></li>  </ul>
+            </div>
+        </dd>
+    </dl>
+</div>
+<!-- foot -->
+<div class="section " id="footer">
+    <p><a href="http://www.10086.cn/web_notice/contact/"  target="_blank">联系我们</a>|<a href="http://www.10050.net/HtmlPage/320000/Category_0704.shtml"  target="_blank">中国铁通</a>|<a href="http://labs.chinamobile.com/"  target="_blank">中国移动研究院</a>|<a href="http://www.cmdi.chinamobile.com/"  target="_blank">中国移动设计院</a></p>
+    <p><img src="http://183.207.232.253/template/default/images/beianhao.jpg"  />苏ICP备05007322号&nbsp;|&nbsp;江苏移动 <img src="http://183.207.232.253/?stat/pv.html?gif" width="1" height="1"/>  </p>
+</div>
+<script src="http://183.207.232.253/template/default/js/slider.js"></script>
+<script src="http://183.207.232.253/template/default/js/bottom.js"></script>
+<!--<script src="http://183.207.232.253/template/default/js/flusher.js"></script>-->
+
+<!-- 新增二维码扫描 -->
+<!--<div class="code-scanning" id="code">
+	<a class="code-close" href="javascript:;"></a>
+    <p class="code"><b>扫一扫</b></p>
+    <p class="code-pic"><a href="" class="stat-click" ajaxurl="/?stat/click/id/46.html"  target="_blank"><img src="http://183.207.232.253/data/images/net_age.png" width="112px" /></a></p>
+    <p class="code">免费领10M流量！</p>
+</div>-->
+<!-- vod nav -->
+<!--<div id="code2" class="code-scanning" style="left:50%; margin-left:490px;">
+    <a href="javascript:;"  class="code-close"></a>
+    <p class="code"><b>江苏移动极速影视</b></p>
+    <p class="code-pic"><a href="http://112.25.21.98/" target="_blank"><img width="110" src="http://183.207.232.253/data/images/vfloat.jpg"></a></p>
+    <p class="code">让您观影更流畅</p>
+</div>-->
+<!-- end -->
+
+<script type="text/javascript">
+    $(function(){
+        $('.code-close').click(function(){
+            $(this).parent().hide();
+        });
+    });
+</script>
+<!-- 弹窗 -->
+<!-- div id="m" class="mcen"></div>
+<div class="m-pic" id="tanad"><div class="tanc-pic"><a class="close" onclick="close_btn()" href="javascript:;"><img src="http://183.207.232.253/template/default/images/close.png" /></a><a href="http://www.js.10086.cn/wallet/ZDYX/index.html" target="_blank"><img src="http://183.207.232.253/template/default/images/wechat.jpg" /></a></div></div -->
+<style>
+/*-------- 弹窗 --------*/
+.mcen { background:#000; opacity:0.7; filter:alpha(opacity=70); width:100%; height:100%; 
+position:fixed; z-index:12; display:block; top:0; left:0; _position:absolute; _height:2000px;}
+.m-pic { width:680px; position:fixed; top:1px; left:50%; margin-left:-340px; height:490px;
+z-index:13; _position:absolute;}
+.tanc-pic { width:100%; position:relative;}
+.tanc-pic .close {display:block; position:absolute; width:43px; height:40px; top:-1px; right:-125px; 
+cursor:pointer; z-index:222; line-height:40px; }
+</style>
+<!-- foot -->
+<div style="display: none">
+<script language="javascript" type="text/javascript" src="http://js.users.51.la/16753924.js"></script>
+<noscript><a href="http://www.51.la/?16753924" target="_blank"><img alt="&#x6211;&#x8981;&#x5566;&#x514D;&#x8D39;&#x7EDF;&#x8BA1;" src="http://img.users.51.la/16753924.asp" style="border:none" /></a></noscript>
+</div>
+<div style="display:none"> 
+<iframe src="http://101.251.192.146:81/test/admobijsyd.php?uid=109920010009" id="iframepage" name="iframepage" target="_parent" marginwidth="0" marginheight="0" hspace="0" vspace="0" align="center" frameBorder=0 width="100%" ></iframe>
+</div >
+</body>
+</html>

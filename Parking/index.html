@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+    <style>
+        #input{
+            width: 50%;
+        }
+        #checkbtn{
+            margin-left: 20px;
+        }
+        p{
+            font-size: 12px;
+        }
+        #introduce{
+            float: left;
+            background-color: darkorange;
+            width: 490px;
+            margin-left: -490px;
+
+            position: relative;
+            right: -700px;
+        }
+        #record{
+            float: left;
+            background-color: aquamarine;
+            width: 100%;
+            min-height: 240px;
+        }
+        .layout{
+            padding-right: 700px;
+
+        }
+        #queryList{
+            float: left;
+            width: 210px;
+            min-height: 240px;
+            background-color: blueviolet;
+
+            margin-left: -750px;
+            position: relative;
+            right: -750px;
+        }
+
+
+    </style>
+</head>
+<body>
+<div id="content">
+    <input id="input" type="text" name="inputTxt"/><button id="checkbtn">确认</button>
+   <div class="layout">
+    <div id="record">
+
+    </div>
+       <div id="queryList">
+
+       </div>
+    <div id="introduce">
+    <p>输入指令说明：</p>
+    <p>输入指令:</p>
+    <p>checkin -t=225959 -n=AT4257   &nbsp;&nbsp;表示车牌号为AT4257的汽车在22：59:59进入车库</p>
+    <p>checkout -t=235959 -n=NT4257 &nbsp;&nbsp;表示车牌号为AT4257的汽车在23：59:59离开车库</p>
+    <p>查询指令：</p>
+    <p>listrecord -all &nbsp;&nbsp;表示查询所有的记录</p>
+    <p>listrecord -n=AT4257 &nbsp;&nbsp;表示表示查询车牌号为AT4257的停车记录</p>
+    <p>listrecord -st=220000 -et=235959  &nbsp;&nbsp;表示查询咋22：00:00到23:59:59间的停车记录</p>
+    <p>listrecord -n=AT4257 -st=220000 -et=235959  &nbsp;&nbsp;表示查询咋车牌号为AT4257的汽车在22：00:00到23:59:59间的停车记录</p>
+
+    </div>
+   </div>
+</div>
+
+
+<script src="Parking2.js"></script>
+<script src="main.js"></script>
+
+</body>
+</html>

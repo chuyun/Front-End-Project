@@ -1,0 +1,13 @@
+#drop-area{
+    width: 200px;
+    height: 200px;
+    border: 1px dashed orange;
+    text-align: center;
+}
+
+#drop-area-canvas{
+    width: 200px;
+    height: 200px;
+
+    background: greenyellow;
+}

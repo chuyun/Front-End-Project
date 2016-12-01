@@ -1,0 +1,17 @@
+{
+  "name": "waerfa",
+  "version": "1.0.0",
+  "description": "",
+  "main": "gulp.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "MIT",
+  "devDependencies": {
+    "browser-sync": "^2.17.5",
+    "gulp": "^3.9.1",
+    "gulp-watch": "^4.3.10",
+    "run-sequence": "^1.2.2"
+  }
+}
