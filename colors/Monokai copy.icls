@@ -3,15 +3,17 @@
     <property name="created">2016-12-06T22:07:47</property>
     <property name="ide">WebStorm</property>
     <property name="ideVersion">2016.3.1.0.0</property>
-    <property name="modified">2016-12-07T12:20:15</property>
+    <property name="modified">2016-12-07T12:30:27</property>
     <property name="originalScheme">_@user_Monokai</property>
   </metaInfo>
-  <option name="EDITOR_FONT_SIZE" value="12" />
-  <option name="EDITOR_FONT_NAME" value="Menlo" />
+  <option name="EDITOR_FONT_SIZE" value="16" />
+  <option name="CONSOLE_FONT_NAME" value="Menlo" />
+  <option name="CONSOLE_FONT_SIZE" value="13" />
+  <option name="EDITOR_FONT_NAME" value="Andale Mono" />
   <colors>
     <option name="CARET_COLOR" value="f8f8f0" />
     <option name="CARET_ROW_COLOR" value="3e3d32" />
-    <option name="CONSOLE_BACKGROUND_KEY" value="" />
+    <option name="CONSOLE_BACKGROUND_KEY" value="3c3f41" />
     <option name="GUTTER_BACKGROUND" value="272822" />
     <option name="INDENT_GUIDE" value="3b3a32" />
     <option name="LINE_NUMBERS_COLOR" value="f8f8f2" />
